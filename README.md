@@ -1,8 +1,6 @@
-# 💫 About Me:
-
 <h2 align="left">😍Hi there!<br>👨‍💻I'm a versatile developer with a passion for crafting innovative solutions.<br>😮I specialize in Java, Python, PHP, SQL, C#, JavaScript, and CSS5.<br>😁I'm always eager to collaborate on exciting projects, so feel free to reach out!</h2>
 
-# 💻 Tech Stack:
+###
 
 <img align="right" height="150" src="https://media.giphy.com/media/Rm3cJx7OmvFWld8bM0/giphy.gif?cid=ecf05e47100zefwzgasuu1v551hmmw43boohgedj8am05cw2&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
@@ -34,7 +32,7 @@
   <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
 </div>
 
-## 🌐 Socials:
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/klenn-pahimna-076589275/" target="_blank">
@@ -61,7 +59,3 @@
 </div>
 
 ###
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
