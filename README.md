@@ -1,61 +1,31 @@
-<h2 align="left">😍Hi there!<br>👨‍💻I'm a versatile developer with a passion for crafting innovative solutions.<br>😮I specialize in Java, Python, PHP, SQL, C#, JavaScript, and CSS5.<br>😁I'm always eager to collaborate on exciting projects, so feel free to reach out!</h2>
+# 💫 About Me:
 
-###
+😍Hi there!<br>👨‍💻I'm a versatile developer with a passion for crafting innovative solutions.<br>😮I specialize in Java, Python, PHP, SQL, C#, JavaScript, and CSS5.<br>😁I'm always eager to collaborate on exciting projects, so feel free to reach out!
 
-<img align="right" height="150" src="https://media.giphy.com/media/Rm3cJx7OmvFWld8bM0/giphy.gif?cid=ecf05e47100zefwzgasuu1v551hmmw43boohgedj8am05cw2&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+## 🌐 Socials:
 
-###
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kpahimna) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kpahimna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/klenn-pahimna-076589275) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/klennpahimna) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/djKam_6924) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Klenn Ohjie Pahimna) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kpahimna) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/k_klenn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@CodingMR) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Klenn-Pahimna)
 
-<div align="left">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white&style=for-the-badge" height="30" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
-</div>
+# 💻 Tech Stack:
 
-###
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/klenn-pahimna-076589275/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://codepen.io/Klenn-Pahimna" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  </a>
-  <a href="https://instagram.com/kpahimna" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/pahimna294klenn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  <a href="https://x.com/k_klenn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@CodingMR" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="pahimna294klenn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+# 📊 GitHub Stats:
 
-###
+![](https://github-readme-stats.vercel.app/api?username=sanguirIS&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sanguirIS&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanguirIS&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sanguirIS&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=sanguirIS&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
+---
