@@ -1,5 +1,5 @@
 # 💫 About Me:
-😍Hi there!<br>👨‍💻I'm a versatile developer with a passion for crafting innovative solutions.<br>😮I specialize in Java, Python, PHP, SQL, C#, JavaScript, and CSS5.<br>😁I'm always eager to collaborate on exciting projects, so feel free to reach out!
+😍Hi there!<br>👨‍💻I'm a versatile developer with a passion for crafting innovative solutions.<br>😮I specialize in Java, Python, PHP, SQL, C#, JavaScript, and CSS5.<br>😁I'm always learn to collaborate on exciting projects, so feel free to reach out hehehe!
 
 
 ## 🌐 Socials:
