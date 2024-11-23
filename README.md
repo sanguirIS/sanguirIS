@@ -1,4 +1,5 @@
-<img src="ahsan.gif" alt="https://yt3.googleusercontent.com/Gf9IboVvI5JNzmvw…fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"/>
+![channels4_banner](https://github.com/user-attachments/assets/b4e742c7-3180-452e-93db-488d08bf435c)
+
 <h1 align="center">Hi 👋, I'm Klenn Phimna</h1>
 <h3 align="center">😍Hi there! 👨‍💻I'm a versatile developer with a passion for crafting innovative solutions. 😁I'm always learn to collaborate on exciting projects, so feel free to reach out hehehe!</h3>
 
