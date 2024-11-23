@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanguiris&" alt="sanguiris" /></p>
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&animation=grow_out_in)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&layout=socrates)
