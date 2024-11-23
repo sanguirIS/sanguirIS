@@ -10,14 +10,12 @@
 
 - 💬 Ask me about **JAVA and SQLSMS**
 
-- 📫 How to reach me **klenn31is18pahimna@gmail.com**
-
 - ⚡ Fun fact **Its Cramming Time🤣**
 
-### My Blogs posts
+### My Blogs:
 <!-- BLOG-POST-LIST:START -->
 <p align="left">
-<a href="https://sanguiris.github.io/Pahimna/HOME.html" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf9A6PheZqSXWWkpMn67GvIu9o82XMrPWY4Q&s" alt="sanguiris" height="40" width="40" />
+<a href="https://sanguiris.github.io/Pahimna/HOME.html" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf9A6PheZqSXWWkpMn67GvIu9o82XMrPWY4Q&s" alt="sanguiris" height="40" width="40" /> </a> <a href="klenn31is18pahimna@gmail.com" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9XA4sCJqOytjpSuG13Ovbsd7ZVdXhZyCM-g&s" height="40" width="40" />
 </a></p>
 <!-- BLOG-POST-LIST:END -->
 
