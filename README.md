@@ -1,9 +1,9 @@
-<img src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" alt="MasterHead" />
+<img src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" alt="MasterHead"/>
 <h1 align="center">Hi 👋, I'm Klenn Phimna</h1>
 <h3 align="center">😍Hi there! 👨‍💻I'm a versatile developer with a passion for crafting innovative solutions. 😁I'm always learn to collaborate on exciting projects, so feel free to reach out hehehe!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanguiris" alt="sanguiris" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/5KOqQQ8bL7oAAAAM/cong-tv-bakit.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/5KOqQQ8bL7oAAAAM/cong-tv-bakit.gif"/>
 
 - 🌱 I’m currently learning **Python, PHP, SQL, C#, JavaScript, and CSS5**
 
@@ -13,9 +13,9 @@
 
 - ⚡ Fun fact **Its Cramming Time🤣**
 
-### Blogs posts
-[<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->](https://sanguiris.github.io/Pahimna/HOME.html)
+### My Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->https://sanguiris.github.io/Pahimna/HOME.html
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
