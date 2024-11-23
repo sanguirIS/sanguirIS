@@ -9,13 +9,19 @@
 - 🌱 I’m currently learning **Python, PHP, SQL, C#, JavaScript, and CSS5**
 
 - 💬 Ask me about **JAVA and SQLSMS**
+  
+- 😍 My GMAIL ACCOUNT <a href="mailto:klenn31is18pahimna@gmail.com" target="_blank">
+    <button style="background-color: #D32F2F; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
+        Email
+    </button>
+</a>
 
 - ⚡ Fun fact **Its Cramming Time🤣**
 
 ### My Blogs:
 <!-- BLOG-POST-LIST:START -->
 <p align="left">
-<a href="https://sanguiris.github.io/Pahimna/HOME.html" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf9A6PheZqSXWWkpMn67GvIu9o82XMrPWY4Q&s" alt="sanguiris" height="40" width="40" /> </a> <a href="klenn31is18pahimna@gmail.com" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9XA4sCJqOytjpSuG13Ovbsd7ZVdXhZyCM-g&s" height="40" width="40" />
+<a href="https://sanguiris.github.io/Pahimna/HOME.html" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf9A6PheZqSXWWkpMn67GvIu9o82XMrPWY4Q&s" alt="sanguiris" height="40" width="40" />
 </a></p>
 <!-- BLOG-POST-LIST:END -->
 
