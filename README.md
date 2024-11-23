@@ -14,8 +14,8 @@
 - ⚡ Fun fact **Its Cramming Time🤣**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->](https://sanguiris.github.io/Pahimna/HOME.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
