@@ -1,7 +1,7 @@
 ![channels4_banner](https://github.com/user-attachments/assets/b4e742c7-3180-452e-93db-488d08bf435c)
 
 <h1 align="center">Hi 👋, I'm Klenn Phimna</h1>
-<h3 align="center">😍Hi there! 👨‍💻I'm a versatile developer with a passion for crafting innovative solutions. 😁I'm always learn to collaborate on exciting projects, so feel free to reach out hehehe!</h3>
+<h3 align="center">😍Hi there! 👨‍💻I'm a Developer for crafting innovative solutions. 😁I'm always learn to collaborate on exciting projects, so feel free to reach out hehehe!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanguiris" alt="sanguiris" /></a> </p>
 <img align="right" alt="Coding" width="400" src="68747470733a2f2f6d656469612e74656e6f722e636f6d2f354b4f71515138624c376f414141414d2f636f6e672d74762d62616b69742e676966.gif"/>
