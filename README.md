@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, PHP, SQL, C#, JavaScript, and CSS5**
 
-- 💬 Ask me about **JAVA and SQLSMS**
+- 💬 Ask me about **JAVA, SQLSMS and MongoDB**
   
 - 😍 My GMAIL ACCOUNT <a href="mailto:klenn31is18pahimna@gmail.com" target="_blank">
     <button style="background-color: #D32F2F; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
