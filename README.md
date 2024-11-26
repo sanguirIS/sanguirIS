@@ -31,11 +31,11 @@
 <a href="https://codepen.io/sanguiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sanguiris" height="30" width="40" /></a>
 <a href="https://dev.to/sanguiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sanguiris" height="30" width="40" /></a>
 <a href="https://twitter.com/k_klenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k_klenn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/klenn pahimna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="klenn pahimna" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/djkam42pahimna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="klenn pahimna" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/klenn pahimna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="klenn pahimna" height="30" width="40" /></a>
 <a href="https://instagram.com/kpahimna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kpahimna" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codingmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingmr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pahimna294klenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pahimna294klenn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/djkam42Pahimna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pahimna294klenn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
