@@ -4,7 +4,7 @@
 <h3 align="center">😍Hi there! 👨‍💻I'm a Developer for crafting innovative solutions. 😁I'm always learn to collaborate on exciting projects, so feel free to reach out hehehe!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanguiris" alt="sanguiris" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/gw3UgyajaNJmtXVK/giphy.gif?cid=ecf05e470vzvtv965vh5buik2u5p52k1y7ev5g6rxm1osaxs&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/137dbf90-dfb0-4c1d-b0ad-5e05c4b4f1f2"/>
 
 - 🌱 I’m currently learning **Python, PHP, SQL, C#, JavaScript, and CSS5**
 
