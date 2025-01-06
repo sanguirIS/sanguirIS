@@ -45,6 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanguiris&show_icons=true&locale=en" alt="sanguiris" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanguiris&" alt="sanguiris" /></p>
-
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&layout=socrates)
