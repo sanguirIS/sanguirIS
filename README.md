@@ -47,9 +47,3 @@
 </div>
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&layout=socrates)
-
-
-
-https://github.com/user-attachments/assets/9c1c0ce2-b244-4d7b-8ca1-2dfab82cde37
-
-
