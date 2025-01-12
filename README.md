@@ -47,6 +47,11 @@
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&layout=socrates)
 
-[![Powershell Created by Chris Titus Free](https://ytcards.demolab.com/?id=-a6iMUM3caE&title=Powershell+Created+by+Chris+Titus+Free&lang=en&timestamp=1905504000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123 "Powershell Created by Chris Titus Free")](https://youtu.be/-a6iMUM3caE?si=snDw1MgDcjmKWxiV)
-
-[![UPDATE & DELETE PARTITION DRIVE](https://ytcards.demolab.com/?id=lfFQEIIXpGc&title=UPDATE+AND+DELETE+PARTITION+DRIVE&lang=en&timestamp=1905504000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425 "UPDATE & DELETE PARTITION DRIVE")](https://www.youtube.com/watch?v=lfFQEIIXpGc)
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://youtu.be/-a6iMUM3caE?si=snDw1MgDcjmKWxiV">
+    <img src="https://ytcards.demolab.com/?id=-a6iMUM3caE&title=Powershell+Created+by+Chris+Titus+Free&lang=en&timestamp=1905504000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123" alt="Powershell Created by Chris Titus Free" title="Powershell Created by Chris Titus Free" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=lfFQEIIXpGc">
+    <img src="https://ytcards.demolab.com/?id=lfFQEIIXpGc&title=UPDATE+AND+DELETE+PARTITION+DRIVE&lang=en&timestamp=1905504000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425" alt="UPDATE & DELETE PARTITION DRIVE" title="UPDATE & DELETE PARTITION DRIVE" />
+  </a>
+</div>
