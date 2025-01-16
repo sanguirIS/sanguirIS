@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JAVA, SQLSMS and MongoDB**
   
-- 😍 <a href="mailto:klenn31is18pahimna@gmail.com" target="_blank">
+- <a href="mailto:klenn31is18pahimna@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Klenn%20Phimna-D32F2F?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
