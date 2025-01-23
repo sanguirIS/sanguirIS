@@ -43,7 +43,7 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanguirIS&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="sanguiris" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=sanguirIS&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="sanguiris" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanguirIS&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="sanguiris" /></p>
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&layout=socrates)
 
