@@ -44,8 +44,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanguiris&show_icons=true&locale=en&layout=compact" alt="sanguiris" /></p>
 
-
-
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&layout=socrates)
 
 <div style="display: flex; justify-content: space-between;">
