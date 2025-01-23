@@ -4,6 +4,7 @@
 <h3 align="center">😍Hi there! 👨‍💻I'm a Developer for crafting innovative solutions. 😁I'm always learn to collaborate on exciting projects, so feel free to reach out hehehe!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanguiris" alt="sanguiris" /></a></p>
+
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/137dbf90-dfb0-4c1d-b0ad-5e05c4b4f1f2"/>
 
 - 🌱 I’m currently learning **Python, PHP, SQL, C#, JavaScript, and CSS5**
@@ -55,3 +56,5 @@
     <img src="https://ytcards.demolab.com/?id=lfFQEIIXpGc&title=UPDATE+AND+DELETE+PARTITION+DRIVE&lang=en&timestamp=1905504000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425" alt="UPDATE & DELETE PARTITION DRIVE" title="UPDATE & DELETE PARTITION DRIVE" />
   </a>
 </div>
+
+https://github.com/user-attachments/assets/bcbfe7f0-f46b-40c6-be94-68b5d371486f
