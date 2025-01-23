@@ -43,7 +43,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanguiris&show_icons=true&locale=en&layout=compact" alt="sanguiris" /></p>
 
-<P><img align="left" src="https://streak-stats.demolab.com?user=sanguirIS&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/></p>
+
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&layout=socrates)
 
