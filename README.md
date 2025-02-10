@@ -21,6 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 <p align="left">
 <a href="https://sanguiris.github.io/Pahimna/HOME.html" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf9A6PheZqSXWWkpMn67GvIu9o82XMrPWY4Q&s" alt="sanguiris" height="40" width="40" />
+  <a href="https://www.riffusion.com/profile/709ae730-cbc8-4783-8465-71555b46951f" target="blank"><img align="center" src="https://api.riffusion.com/storage/v1/object/public/user-metadata/709ae730-cbc8-4783-8465-71555b46951f/profile.jpg" alt="sanguiris" height="40" width="40" />
 </a></p>
 <!-- BLOG-POST-LIST:END -->
 
