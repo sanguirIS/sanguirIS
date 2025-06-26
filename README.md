@@ -1,4 +1,6 @@
-![channels4_banner](https://github.com/user-attachments/assets/b4e742c7-3180-452e-93db-488d08bf435c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0e13b5cf-be73-4c18-9f6d-d3d933e6ed0a" alt="508658673_1346609583092426_7582020596143841655_n">
+</p>
 
 <h1 align="center">Hi 👋, I'm Klenn Phimna</h1>
 <h3 align="center">😍Hi there! 👨‍💻I'm a Developer for crafting innovative solutions. 😁I'm always learn to collaborate on exciting projects, so feel free to reach out hehehe!</h3>
