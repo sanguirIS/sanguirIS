@@ -34,7 +34,7 @@
 <a href="https://www.linkedin.com/in/djkam42pahimna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="klenn pahimna" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/klenn pahimna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="klenn pahimna" height="30" width="40" /></a>
 <a href="https://instagram.com/kpahimna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kpahimna" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codingmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingmr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CodingMR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingmr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/djkam42Pahimna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pahimna294klenn" height="30" width="40" /></a>
 </p>
 
