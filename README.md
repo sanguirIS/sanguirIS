@@ -22,7 +22,7 @@
 ### My WEB:
 <!-- BLOG-POST-LIST:START -->
 <p align="left">
-<a href="https://sanguiris.github.io/Pahimna/HOME.html" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf9A6PheZqSXWWkpMn67GvIu9o82XMrPWY4Q&s" alt="sanguiris" height="40" width="40"/> </a></p>
+<a href="https://sanguiris.github.io/Pahimna/HOME.html" target="blank"><img align="center" src="https://github.com/user-attachments/assets/96d6d429-9ae6-450a-8597-900a68e8ba55" alt="sanguiris" height="40" width="40"/> </a></p>
 <!-- BLOG-POST-LIST:END -->
 
 
