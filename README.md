@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanguiris" alt="sanguiris" /></a></p>
 
-<img align="right" width="400" src="https://github.com/user-attachments/assets/7f941015-e682-4443-b018-8e157d77975a"/>
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZqcmczZGNuamExNGR3Y3c3M3I2MWhqaTA2MDc5a2c4ZDR2OWlsMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif"/>
 
 - 🌱 I’m currently learning **Python, PHP, SQL, C#, JavaScript, and CSS5**
 
