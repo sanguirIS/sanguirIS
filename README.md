@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fed5b17e-eadb-46af-a5a6-d02751b1ddb8" alt="508658673_1346609583092426_7582020596143841655_n">
+  <img src="https://github.com/user-attachments/assets/0e97ca77-3094-4f19-9a13-82c1bb8d76d2" alt="Gemini_Generated_Image_360bky360bky360b-1024x576">
 </p>
 
 <h1 align="center">Hi 👋, I'm Klenn Phimna</h1>
