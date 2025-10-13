@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JAVA, SQLSMS and MongoDB**
   
-- <a href="mailto:klenn31is18pahimna@gmail.com" target="blank">
+- <a href="mailto:klenn31is18pahimna@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-Give%20Feedback-D32F2F?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
@@ -21,7 +21,7 @@
 
 ### My WEB:
 <p align="left">
-<a href="https://sanguiris.github.io/Pahimna/HOME.html" target="blank"><img align="center" src="https://github.com/user-attachments/assets/96d6d429-9ae6-450a-8597-900a68e8ba55" alt="sanguiris" height="40" width="40"/> </a></p>
+<a href="https://sanguiris.github.io/Pahimna/HOME.html" target="_blank" rel="noreferrer"><img align="center" src="https://github.com/user-attachments/assets/96d6d429-9ae6-450a-8597-900a68e8ba55" alt="sanguiris" height="40" width="40"/> </a></p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -65,11 +65,11 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-  <a href="https://github.com/user-attachments/assets/af279d02-e2cb-4cf8-a5b2-5730a329676f target= blank" >
+  <a href="https://github.com/user-attachments/assets/af279d02-e2cb-4cf8-a5b2-5730a329676f" target="_blank" rel="noreferrer" >
     <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/52517717-589b-4c76-977d-27a53952379f.png" alt="Data Analytics Essentials" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </a>
 
-  <a href="https://github.com/user-attachments/assets/11f99c62-9ee3-44e7-8fa3-708d34eeb8de" target="blank">
+  <a href="https://github.com/user-attachments/assets/11f99c62-9ee3-44e7-8fa3-708d34eeb8de" target="_blank" rel="noreferrer">
     <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3d5e07f2-ca76-4149-bb55-5aede309b3bf.png" alt="Digital Safety and Security Awareness" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </a>
 
