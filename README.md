@@ -65,7 +65,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-  <a href="https://github.com/user-attachments/assets/af279d02-e2cb-4cf8-a5b2-5730a329676f" target="blank">
+  <a href="https://github.com/user-attachments/assets/af279d02-e2cb-4cf8-a5b2-5730a329676f target= blank" >
     <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/52517717-589b-4c76-977d-27a53952379f.png" alt="Data Analytics Essentials" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </a>
 
