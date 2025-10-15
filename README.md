@@ -79,27 +79,24 @@
 
 </div>
 
-## The Vibe: Certified Data 💅
-
-**10/12/2025 was the day.** I went hard and snagged a whole stack of modules. Like, all the essentials for being a data wizard. This isn't just theory; it's the full glow-up—from prepping messy data to building fire dashboards. **We out here making data make sense.**
-
 ---
 
-## The Flex: My Badges 🏆
+<div style="border: 2px solid #0056b3; padding: 20px; border-radius: 10px; background-color: #f0f8ff;">
+  <div align="center" style="border: 1px solid #ddd; padding: 15px; border-radius: 8px; background-color: #ffffff;">
 
-These are the receipts. Each one is a core skill unlocked. **Click the name to see the actual badge image.**
+## 🏆Module Achievements🏆
 
-| Badge Name | What It Really Means (The Skill Flex) |
-| :--- | :--- |
-| **[Project Portfolio](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/2b26e287-d615-4c24-bb2d-3fcaaf2e3c64.png)** | Not just a collection, but a curated vibe. **Proof I can deliver.** |
-| **[Ethical use of Data](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/50eef80c-c302-46a3-96bf-8c09a898aca5.png)** | Knowing the tea on **data privacy** and keeping things above board. **No cap.** |
-| **[Dashboarding Basics](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/6edb0ffb-1087-4f66-9700-8b7817a67a43.png)** | Making data look clean and aesthetic. **If it's not a vibe, I don't want it.** |
-| **[Combining Data](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/fae6d3c3-fcfc-4ec0-9a72-830fb0714bac.png)** | Merging spreadsheets like a boss. **Making the separate data cells "ship."** |
-| **[SQL Basics](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/1d4dfbcd-80e0-43cc-ba13-00e0f19f34d4.png)** | Low-key talking to the database. **Querying is my love language.** |
-| **[Descriptive Statistics](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/a1943a93-ff8f-4c03-b2b7-eff27623b983.png)** | Summarizing the numbers so we know what's up. **It's giving insights.** |
-| **[Transforming Data with Excel](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/54ca4432-10f5-4e77-a024-4bab3d9991ff.png)** | Cleaning up data with that Excel mastery. **Turning hot mess into success.** |
-| **[Data Acquisition and Preparation](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/fe9dff0a-ad01-44e4-afbe-9546522a0267.png)** | Expertise in sourcing and getting data ready for analysis. **The *before* of the glow-up.** |
-| **[Data Gathering and Understanding](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/5f65d8f2-ed6a-4dc2-9b1f-439b2dfc0782.png)** | Scoping out the data world. **IYKYK (If You Know, You Know).** |
-| **[Start a Project Portfolio](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/68f9c5c4-5690-4aa5-b260-40d604874bc0.png)** | The foundation is built. **Level 1 complete.** |
+| **Achievement** | **Achievement** | **Achievement** | **Achievement** | **Achievement** |
+| :---: | :---: | :---: | :---: | :---: |
+| <img width="120" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/2b26e287-d615-4c24-bb2d-3fcaaf2e3c64.png" alt="Project Portfolio Badge" > | <img width="120" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/50eef80c-c302-46a3-96bf-8c09a898aca5.png" alt="Ethical use of Data Badge"> | <img width="120" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/6edb0ffb-1087-4f66-9700-8b7817a67a43.png" alt="Dashboarding Basics Badge"> | <img width="120" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/fae6d3c3-fcfc-4ec0-9a72-830fb0714bac.png" alt="Combining Data Badge"> | <img width="120" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/1d4dfbcd-80e0-43cc-ba13-00e0f19f34d4.png" alt="SQL Basics Badge"> |
+| **Project Portfolio** | **Ethical use of Data** | **Dashboarding Basics** | **Combining Data** | **SQL Basics** |
+| Issued On: **Oct 03, 2025** | Issued On: **Oct 04, 2025** | Issued On: **Oct 05, 2025** | Issued On: **Oct 06, 2025** | Issued On: **Oct 07, 2025** |
 
----
+| **Achievement** | **Achievement** | **Achievement** | **Achievement** | **Achievement** |
+| :---: | :---: | :---: | :---: | :---: |
+| <img width="120" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/a1943a93-ff8f-4c03-b2b7-eff27623b983.png" alt="Descriptive Statistics Badge"> | <img width="120" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/54ca4432-10f5-4e77-a024-4bab3d9991ff.png" alt="Transforming Data with Excel Badge"> | <img width="120" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/fe9dff0a-ad01-44e4-afbe-9546522a0267.png" alt="Data Acquisition and Preparation Badge"> | <img width="120" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/5f65d8f2-ed6a-4dc2-9b1f-439b2dfc0782.png" alt="Data Gathering and Understanding Badge"> | <img width="120" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/68f9c5c4-5690-4aa5-b260-40d604874bc0.png" alt="Start a Project Portfolio Badge"> |
+| **Descriptive Statistics** | **Transforming Data with Excel** | **Data Acquisition and Preparation** | **Data Gathering and Understanding** | **Start a Project Portfolio** |
+| Issued On: **Oct 10, 2025** | Issued On: **Oct 11, 2025** | Issued On: **Oct 11, 2025** | Issued On: **Oct 12, 2025** | Issued On: **Oct 12, 2025** |
+
+  </div>
+</div>
