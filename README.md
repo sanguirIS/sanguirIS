@@ -69,12 +69,12 @@
     <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/52517717-589b-4c76-977d-27a53952379f.png" alt="Data Analytics Essentials" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </a>
 
-  <a href="https://github.com/user-attachments/assets/11f99c62-9ee3-44e7-8fa3-708d34eeb8de" target="_blank" rel="noreferrer">
-    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3d5e07f2-ca76-4149-bb55-5aede309b3bf.png" alt="Digital Safety and Security Awareness" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <a href="https://github.com/user-attachments/assets/816584a3-fa35-4131-a049-ede8ea5a194b" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/cd5e7dc2-d3aa-4f7d-ac82-363cdb9ac6a0" alt="sti_logo_con(3)(2)" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </a>
 
-   <a href="https://github.com/user-attachments/assets/816584a3-fa35-4131-a049-ede8ea5a194b" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/cd5e7dc2-d3aa-4f7d-ac82-363cdb9ac6a0" alt="sti_logo_con(3)(2)" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <a href="https://github.com/user-attachments/assets/11f99c62-9ee3-44e7-8fa3-708d34eeb8de" target="_blank" rel="noreferrer">
+    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3d5e07f2-ca76-4149-bb55-5aede309b3bf.png" alt="Digital Safety and Security Awareness" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </a>
 
 </div>
