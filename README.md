@@ -33,6 +33,7 @@
 <a href="https://stackoverflow.com/users/klenn pahimna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="klenn pahimna" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@CodingMR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingmr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/djkam42Pahimna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pahimna294klenn" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@com4_4ksec" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/2840/tiktok-logo-512.png" alt="pahimna294klenn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
