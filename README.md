@@ -78,6 +78,10 @@
     <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/3d5e07f2-ca76-4149-bb55-5aede309b3bf.png" alt="Digital Safety and Security Awareness" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   </a>
 
+  <a href="https://github.com/user-attachments/assets/e50157ff-eb23-435d-a301-50c21cc7125f" target="_blank" rel="noreferrer" >
+    <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cyber_threat_management_37.png" alt="Cyber Threat Management" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  </a>
+
 </div>
 
 ---
@@ -99,8 +103,16 @@
 | **Descriptive Statistics** | **Transforming Data with Excel** | **Data Acquisition and Preparation** | **Data Gathering and Understanding** | **Start a Project Portfolio** |
 | Issued On: **Oct 10, 2025** | Issued On: **Oct 11, 2025** | Issued On: **Oct 11, 2025** | Issued On: **Oct 12, 2025** | Issued On: **Oct 12, 2025** |
 
+| **Incident Response** | **Vulnerability Assessment and Risk Management** |
+| :---: | :---: |
+| <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/incident_response_36.png" alt="Incident Response Module Badge" width="150" /> | <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/vulnerability_assessment_and_risk_management_35.png" alt="Vulnerability Assessment Module Badge" width="150" /> |
+| **Module Focus:** Handling and recovering from security breaches. | **Module Focus:** Identifying flaws and calculating potential security risks. |
+| **Issued On:** October 17, 2025 | **Issued On:** October 21, 2025 |
+
   </div>
 </div>
+
+---
 
 <div style="border: 1px solid #ccc; padding: 15px; background-color: #f6f8fa; font-family: monospace;">
 
@@ -119,7 +131,7 @@
 
 ---
 
-## 📈 Module Score Breakdown (Bar Graph Method)
+## 📈 Module Score
 
 | Module | Score | Visualization | Achievement |
 | :--- | :--- | :--- | :--- |
