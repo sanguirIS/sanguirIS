@@ -101,3 +101,44 @@
 
   </div>
 </div>
+
+<div style="border: 1px solid #ccc; padding: 15px; background-color: #f6f8fa; font-family: monospace;">
+
+# 🛡️ Cyber Threat Management Knowledge Check Result
+
+---
+
+## 📅 Assessment Summary
+
+| Metric | Value |
+| :--- | :--- |
+| **Learner Name** | Klenn Pahimna |
+| **Total Score** | **88** / 100 |
+| **Overall Achievement** | **Advanced** 🚀 |
+| **Completed On** | 17 Oct 2025 |
+
+---
+
+## 📈 Module Score Breakdown (Bar Graph Method)
+
+| Module | Score | Visualization | Achievement |
+| :--- | :--- | :--- | :--- |
+| 1. Governance and Compliance | 84 | `[▓▓▓▓▓▓▓▓░░]` **84%** | Advanced |
+| 2. Network Security Testing | 90 | `[▓▓▓▓▓▓▓▓▓░]` **90%** | Mastered |
+| 3. Threat Intelligence | 88 | `[▓▓▓▓▓▓▓▓░░]` **88%** | Advanced |
+| 4. Endpoint Vulnerability Assessment | 91 | `[▓▓▓▓▓▓▓▓▓░]` **91%** | Mastered |
+| 5. Risk Management & Security Controls | 84 | `[▓▓▓▓▓▓▓▓░░]` **84%** | Advanced |
+| 6. Digital Forensics & Incident Response | 88 | `[▓▓▓▓▓▓▓▓░░]` **88%** | Advanced |
+
+---
+
+## 🎯 Achievement Level Key
+
+| Level | Score Range |
+| :--- | :--- |
+| **Mastered** | $\ge 90$ |
+| **Advanced** | $\ge 80$ |
+| **Intermediate** | $\ge 60$ |
+| **Beginner** | $< 60$ |
+
+</div>
