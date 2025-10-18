@@ -129,20 +129,16 @@
 | **Overall Achievement** | **Advanced** 🚀 |
 | **Completed On** | 17 Oct 2025 |
 
----
-
 ## 📈 Module Score
 
 | Module | Score | Visualization | Achievement |
 | :--- | :--- | :--- | :--- |
-| 1. Governance and Compliance | 84 | `[▓▓▓▓▓▓▓▓░░]` **84%** | Advanced |
-| 2. Network Security Testing | 90 | `[▓▓▓▓▓▓▓▓▓░]` **90%** | Mastered |
-| 3. Threat Intelligence | 88 | `[▓▓▓▓▓▓▓▓░░]` **88%** | Advanced |
-| 4. Endpoint Vulnerability Assessment | 91 | `[▓▓▓▓▓▓▓▓▓░]` **91%** | Mastered |
-| 5. Risk Management & Security Controls | 84 | `[▓▓▓▓▓▓▓▓░░]` **84%** | Advanced |
-| 6. Digital Forensics & Incident Response | 88 | `[▓▓▓▓▓▓▓▓░░]` **88%** | Advanced |
-
----
+| 1. Governance and Compliance | 84 | `▓▓▓▓▓▓▓▓░░` **84%** | Advanced |
+| 2. Network Security Testing | 90 | `▓▓▓▓▓▓▓▓▓░` **90%** | Mastered |
+| 3. Threat Intelligence | 88 | `▓▓▓▓▓▓▓▓░░` **88%** | Advanced |
+| 4. Endpoint Vulnerability Assessment | 91 | `▓▓▓▓▓▓▓▓▓░` **91%** | Mastered |
+| 5. Risk Management & Security Controls | 84 | `▓▓▓▓▓▓▓▓░░` **84%** | Advanced |
+| 6. Digital Forensics & Incident Response | 88 | `▓▓▓▓▓▓▓▓░░` **88%** | Advanced |
 
 ## 🎯 Achievement Level Key
 
@@ -152,5 +148,7 @@
 | **Advanced** | $\ge 80$ |
 | **Intermediate** | $\ge 60$ |
 | **Beginner** | $< 60$ |
+
+---
 
 </div>
