@@ -21,7 +21,9 @@
 
 ### My WEB:
 <p align="left">
-<a href="https://sanguiris.github.io/Pahimna/HOME.html" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/96d6d429-9ae6-450a-8597-900a68e8ba55" alt="sanguiris" height="40" width="40"/> </a></p>
+<a href="https://sanguiris.github.io/Pahimna/HOME.html" target="_blank"><img align="center" src="https://i.pinimg.com/736x/58/72/1a/58721ab75485d98cc8bf831c4b8d980d.jpg" alt="sanguiris" height="40" width="40"/> 
+<a href="https://sanguiris.github.io/Pahimna/info.html" target="_blank"><img align="center" src="https://i.pinimg.com/736x/85/e6/47/85e64767b129d2cae2d1c47b1ed0aece.jpg" alt="portfolio" height="40" width="40"/>
+</a></p>
 
 
 <h3 align="left">Connect with me:</h3>
