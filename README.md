@@ -71,7 +71,7 @@
 
 ---
 
-  <details close>
+  <details close align="center">
 <summary><h2 style="display: inline-block;">📈 User Statistics</h2></summary>
 <table>
   <tbody>
@@ -148,7 +148,7 @@
 
 ---
 
-  <details close>
+  <details close align="center">
 <summary><h2 style="display: inline-block;">📺 Latest YouTube Videos</h2></summary>
 
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 20px; padding: 20px 0;">
@@ -166,7 +166,7 @@
 
 ---
 
-  <details close>
+  <details close align="center">
 <summary><h2 style="display: inline-block;">🏅 My Learning Achievements</h2></summary>
     
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
@@ -192,7 +192,7 @@
 
 ---
 
-<details close>
+  <details close align="center">
 <summary><h2 style="display: inline-block;">🏆 Module Achievements Details 🏆</h2></summary>
 
 <div align="center" style="margin-top: 15px;">
@@ -209,7 +209,7 @@
 
 ---
 
-<details close>
+  <details close align="center">
 <summary><h2 style="display: inline-block;">🛡️ Cyber Threat Management Knowledge Check Result</h2></summary>
 
 <div style="background-color: #0d1117; color: #f0f8ff; padding: 20px; border-radius: 10px; margin-top: 15px; overflow-x: auto;">
