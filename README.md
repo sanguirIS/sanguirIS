@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-<img align="right" width="270" src="https://github.com/user-attachments/assets/452443cf-8869-449b-929a-ddc526219ba0" alt="Profile Picture" style="border-radius: 5px;">
+<img align="right" width="250" src="https://github.com/user-attachments/assets/452443cf-8869-449b-929a-ddc526219ba0" alt="Profile Picture" style="border-radius: 5px;">
 </p>
 
 - 🌱 I’m currently diving deep into **Python, PHP, SQL, C#, JavaScript, and CSS5**.
