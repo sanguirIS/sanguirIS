@@ -214,6 +214,7 @@
 
 <div style="background-color: #0d1117; color: #f0f8ff; padding: 20px; border-radius: 10px; margin-top: 15px; overflow-x: auto;">
 <pre style="white-space: pre-wrap; word-wrap: break-word;">
+
 ## 📅 Assessment Summary
 
 | Metric | Value |
@@ -243,6 +244,5 @@
 | **Intermediate** | $\ge 60$ |
 | **Beginner** | $< 60$ |
 
-</pre>
 </div>
 </details>
