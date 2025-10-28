@@ -71,7 +71,8 @@
 
 ---
 
-### 📈 User Statistics
+  <details close>
+<summary><h2 style="display: inline-block;">📈 User Statistics</h2></summary>
 <table>
   <tbody>
     <tr>
@@ -142,9 +143,13 @@
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&layout=socrates)
 
+</div>
+</details>
+
 ---
 
-### 📺 Latest YouTube Videos
+  <details close>
+<summary><h2 style="display: inline-block;">📺 Latest YouTube Videos</h2></summary>
 
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 20px; padding: 20px 0;">
 
@@ -157,13 +162,13 @@
   </a>
 
 </div>
+</details>
 
 ---
 
-<div align="center">
-  <h2>🏅 My Learning Achievements</h2>
-</div>
-
+  <details close>
+<summary><h2 style="display: inline-block;">🏅 My Learning Achievements</h2></summary>
+    
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
 
   <a href="https://github.com/user-attachments/assets/af279d02-e2cb-4cf8-a5b2-5730a329676f" target="_blank" rel="noreferrer" >
@@ -183,10 +188,11 @@
   </a>
 
 </div>
+</details>
 
 ---
 
-<details open>
+<details close>
 <summary><h2 style="display: inline-block;">🏆 Module Achievements Details 🏆</h2></summary>
 
 <div align="center" style="margin-top: 15px;">
@@ -203,7 +209,7 @@
 
 ---
 
-<details open>
+<details close>
 <summary><h2 style="display: inline-block;">🛡️ Cyber Threat Management Knowledge Check Result</h2></summary>
 
 <div style="background-color: #0d1117; color: #f0f8ff; padding: 20px; border-radius: 10px; margin-top: 15px; overflow-x: auto;">
