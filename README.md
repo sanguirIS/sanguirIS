@@ -70,9 +70,6 @@
 </p>
 
 ---
-
-  <details close align="center">
-<summary><h2 style="display: inline-block;">📈 User Statistics</h2></summary>
 <table>
   <tbody>
     <tr>
@@ -114,11 +111,6 @@
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanguiris&">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanguiris&theme=dracula"/>
         </a>
-      </th>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanguiris&">
-        <img src="https://github-readme-stats.vercel.app/api?username=sanguirIS&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
-        </a>
     </tr>
   </tbody>
   <tbody>
@@ -132,11 +124,6 @@
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanguiris">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanguiris&theme=dracula"/>
         </a>
-      </td>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanguiris">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanguirIS&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
-        </a>
     </tr>
   </tbody>
 </table>
@@ -144,12 +131,8 @@
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&layout=socrates)
 
 </div>
-</details>
 
 ---
-
-  <details close align="center">
-<summary><h2 style="display: inline-block;">📺 Latest YouTube Videos</h2></summary>
 
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: start; gap: 20px; padding: 20px 0;">
 
@@ -162,12 +145,8 @@
   </a>
 
 </div>
-</details>
 
 ---
-
-  <details close align="center">
-<summary><h2 style="display: inline-block;">🏅 My Learning Achievements</h2></summary>
     
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
 
@@ -188,61 +167,3 @@
   </a>
 
 </div>
-</details>
-
----
-
-  <details close align="center">
-<summary><h2 style="display: inline-block;">🏆 Module Achievements Details 🏆</h2></summary>
-
-<div align="center" style="margin-top: 15px;">
-  
-| Achievement | Issued On | Achievement | Issued On | Achievement | Issued On |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/2b26e287-d615-4c24-bb2d-3fcaaf2e3c64.png" alt="Project Portfolio Badge" ><br>**Project Portfolio** | **Oct 03, 2025** | <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/50eef80c-c302-46a3-96bf-8c09a898aca5.png" alt="Ethical use of Data Badge"><br>**Ethical use of Data** | **Oct 04, 2025** | <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/6edb0ffb-1087-4f66-9700-8b7817a67a43.png" alt="Dashboarding Basics Badge"><br>**Dashboarding Basics** | **Oct 05, 2025** |
-| <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/fae6d3c3-fcfc-4ec0-9a72-830fb0714bac.png" alt="Combining Data Badge" ><br>**Combining Data** | **Oct 06, 2025** | <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/1d4dfbcd-80e0-43cc-ba13-00e0f19f34d4.png" alt="SQL Basics Badge"><br>**SQL Basics** | **Oct 07, 2025** | <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/a1943a93-ff8f-4c03-b2b7-eff27623b983.png" alt="Descriptive Statistics Badge"><br>**Descriptive Statistics** | **Oct 10, 2025** |
-| <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/54ca4432-10f5-4e77-a024-4bab3d9991ff.png" alt="Transforming Data with Excel Badge" ><br>**Transforming Data with Excel** | **Oct 11, 2025** | <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/fe9dff0a-ad01-44e4-afbe-9546522a0267.png" alt="Data Acquisition and Preparation Badge"><br>**Data Acquisition and Preparation** | **Oct 11, 2025** | <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/5f65d8f2-ed6a-4dc2-9b1f-439b2dfc0782.png" alt="Data Gathering and Understanding Badge"><br>**Data Gathering and Understanding** | **Oct 12, 2025** |
-| <img width="100" src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/68f9c5c4-5690-4aa5-b260-40d604874bc0.png" alt="Start a Project Portfolio Badge" ><br>**Start a Project Portfolio** | **Oct 12, 2025** | <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/incident_response_36.png" alt="Incident Response Module Badge" width="100" /><br>**Incident Response**<br>*Handling breaches* | **Oct 17, 2025** | <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/vulnerability_assessment_and_risk_management_35.png" alt="Vulnerability Assessment Module Badge" width="100" /><br>**Vulnerability Assessment**<br>*Identifying flaws* | **Oct 21, 2025** |
-
-</div>
-</details>
-
----
-
-  <details close align="center">
-<summary><h2 style="display: inline-block;">🛡️ Cyber Threat Management Knowledge Check Result</h2></summary>
-
-<div style="background-color: #0d1117; color: #f0f8ff; padding: 20px; border-radius: 10px; margin-top: 15px; overflow-x: auto;">
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
-
-## 📅 Assessment Summary
-
-| Metric | Value |
-| :--- | :--- |
-| **Learner Name** | Klenn Pahimna |
-| **Total Score** | **88** / 100 |
-| **Overall Achievement** | **Advanced** 🚀 |
-| **Completed On** | 17 Oct 2025 |
-
-## 📈 Module Score Breakdown
-
-| Module | Score | Visualization | Achievement |
-| :--- | :--- | :--- | :--- |
-| 1. Governance and Compliance | 84 | `████████░░` **84%** | Advanced |
-| 2. Network Security Testing | 90 | `█████████░` **90%** | **Mastered** |
-| 3. Threat Intelligence | 88 | `████████░░` **88%** | Advanced |
-| 4. Endpoint Vulnerability Assessment | 91 | `█████████░` **91%** | **Mastered** |
-| 5. Risk Management & Security Controls | 84 | `████████░░` **84%** | Advanced |
-| 6. Digital Forensics & Incident Response | 88 | `████████░░` **88%** | Advanced |
-
-## 🎯 Achievement Level Key
-
-| Level | Score Range |
-| :--- | :--- |
-| **Mastered** | $\ge 90$ |
-| **Advanced** | $\ge 80$ |
-| **Intermediate** | $\ge 60$ |
-| **Beginner** | $< 60$ |
-
-</div>
-</details>
