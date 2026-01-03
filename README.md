@@ -7,8 +7,12 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://github-trophies.vercel.app/?username=sanguiris" alt="GitHub Trophies" style="max-width: 100%;">
+  
+
+  <img align="right" width="220" src="https://data.nsfwph.org/2026/01/12135142_giphy.gif" alt="Profile Picture" style="border-radius: 10px;">
+</p>
 
 ---
 
@@ -143,5 +147,4 @@
   <a href="https://www.youtube.com/watch?v=lfFQEIIXpGc" style="display: block;">
     <img src="https://ytcards.demolab.com/?id=lfFQEIIXpGc&title=UPDATE+AND+DELETE+PARTITION+DRIVE&lang=en&timestamp=1905504000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425" alt="UPDATE & DELETE PARTITION DRIVE" title="UPDATE & DELETE PARTITION DRIVE" style="max-width: 100%; height: auto;"/>
   </a>
-
 </div>
