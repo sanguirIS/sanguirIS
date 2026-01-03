@@ -10,14 +10,14 @@
 <p align="left">
   <img src="https://github-trophies.vercel.app/?username=sanguiris" alt="GitHub Trophies" style="max-width: 100%;">
 
-  <img align="right" width="220" src="https://data.nsfwph.org/2026/01/12135142_giphy.gif" alt="Profile Picture" style="border-radius: 5px;">
+  <img align="right" width="199" src="https://data.nsfwph.org/2026/01/12135142_giphy.gif" alt="Profile Picture" style="border-radius: 5px;">
 </p>
 
 ---
 
 ### 🚀 About Me
 
-<img align="right" width="250" src="https://github.com/user-attachments/assets/452443cf-8869-449b-929a-ddc526219ba0" alt="Profile Picture" style="border-radius: 5px;">
+<img align="right" width="199" src="https://github.com/user-attachments/assets/452443cf-8869-449b-929a-ddc526219ba0" alt="Profile Picture" style="border-radius: 5px;">
 </p>
 
 - 🌱 I’m currently diving deep into **Python, PHP, SQL, C#, JavaScript, and CSS5**.
