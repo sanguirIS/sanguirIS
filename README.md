@@ -9,9 +9,8 @@
 
 <p align="left">
   <img src="https://github-trophies.vercel.app/?username=sanguiris" alt="GitHub Trophies" style="max-width: 100%;">
-  
 
-  <img align="right" width="220" src="https://data.nsfwph.org/2026/01/12135142_giphy.gif" alt="Profile Picture" style="border-radius: 10px;">
+  <img align="right" width="220" src="https://data.nsfwph.org/2026/01/12135142_giphy.gif" alt="Profile Picture" style="border-radius: 5px;">
 </p>
 
 ---
