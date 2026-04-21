@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0e97ca77-3094-4f19-9a13-82c1bb8d76d2" alt="Developer Banner" style="max-width: 100%; height: auto; border-radius: 10px; display: block;">
+  <img src="https://github.com/user-attachments/assets/0e97ca77-3094-4f19-9a13-82c1bb8d76d2" alt="Developer Banner" style="max-width: 50%; height: auto; border-radius: 10px; display: block;">
   
   <h1 style="color: #0366d6; margin: 20px 0;">Hi 👋, I'm Klenn Phimna</h1>
   <h3 style="color: #555; margin: 10px 0;">😍I'm a Developer for crafting innovative solutions. 💻I'm always learning and ready to collaborate on exciting projects!</h3>
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="140" src="https://github.com/user-attachments/assets/452443cf-8869-449b-929a-ddc526219ba0" alt="Profile Picture" style="border-radius: 5px;">
+<img align="right" width="130" src="https://github.com/user-attachments/assets/452443cf-8869-449b-929a-ddc526219ba0" alt="Profile Picture" style="border-radius: 5px;">
 </p>
   
   <div style="flex: 1; min-width: 250px;">
