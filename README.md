@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0e97ca77-3094-4f19-9a13-82c1bb8d76d2" alt="Developer Banner" style="max-width: 50%; height: auto; border-radius: 10px; display: block;">
+  <img src="https://yt3.googleusercontent.com/-YyrgAitussZNHYJ4zu71_0_77HBOye21wfDggsJJmwBxHtFoturuAcyrJh6CpD8T45laU2VsQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Developer Banner" style="max-width: 50%; height: auto; border-radius: 10px; display: block;">
   
   <h1 style="color: #0366d6; margin: 20px 0;">Hi 👋, I'm Klenn Phimna</h1>
   <h3 style="color: #555; margin: 10px 0;">😍I'm a Developer for crafting innovative solutions. 💻I'm always learning and ready to collaborate on exciting projects!</h3>
