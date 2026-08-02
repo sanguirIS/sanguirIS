@@ -5,11 +5,6 @@
 
 <br>
 
-<!-- 🎀 Animated Anime Girl -->
-<img src="assets/anime-girl.gif" width="120" height="120" alt="Cute Anime Girl" style="border-radius: 50%;">
-
-<h1>Hi 👋, I'm <span style="color: #F75C7E;">Klenn Phimna</span></h1>
-
 <!-- ⌨️ Animated Typing Text -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=Developer+%26+Creator;Always+learning+new+things;Python,+PHP,+SQL,+C%23,+JavaScript;Let%27s+build+something+awesome%21" alt="Typing Animation" style="max-width: 100%; height: auto;">
 
@@ -34,6 +29,9 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; padding: 10px;">
 
+<img align="right" width="130" src="https://github.com/user-attachments/assets/452443cf-8869-449b-929a-ddc526219ba0" alt="Profile Picture" style="border-radius: 5px;">
+</p>
+
   <div style="flex: 1 1 320px; min-width: 260px; max-width: 100%;">
     <p style="font-size: 1rem; line-height: 1.7; margin: 12px 0;">
       <strong>🌱 I'm currently diving deep into:</strong><br>
@@ -53,8 +51,6 @@
   </div>
 
   <div style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 12px; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/452443cf-8869-449b-929a-ddc526219ba0" width="130" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #F75C7E;">
-    <img src="assets/hello.gif" width="110" alt="Hello Anime Girl" style="border-radius: 12px;">
   </div>
 
 </div>
@@ -65,18 +61,14 @@
 
 ## 🔗 My Web Projects
 
-<div align="center">
-
+<div align="left">
   <a href="https://sanguiris.github.io/Pahimna/HOME.html" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/1524/1524913.png" width="55" height="55" alt="Home">
-    <p><strong>🏠 Home</strong></p>
-  </a>
-
+    
   <a href="https://sanguiris.github.io/Pahimna/info.html" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/3050/3050159.png" width="55" height="55" alt="Portfolio">
-    <p><strong>💼 Portfolio</strong></p>
+    <p>
   </a>
-
 </div>
 
 <div align="center" style="margin: 30px 0;">
