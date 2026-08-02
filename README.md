@@ -198,7 +198,10 @@
   </a>
 
   <p style="margin: 14px 0 4px;"><strong>🐍 My Contribution Snake</strong></p>
-  <img src="https://raw.githubusercontent.com/sanguirIS/sanguirIS/output/github-snake.svg" alt="Contribution Snake" style="max-width: 100%; height: auto;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanguirIS/sanguirIS/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/sanguirIS/sanguirIS/output/github-snake.svg" alt="Contribution Snake" style="max-width: 100%; height: auto;">
+  </picture>
 
 </div>
 
