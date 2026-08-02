@@ -65,16 +65,16 @@
 
 ## 🔗 My Web Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; padding: 10px;">
+<div align="center">
 
-  <a href="https://sanguiris.github.io/Pahimna/HOME.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; padding: 16px 24px; border: 1px solid rgba(247, 92, 126, 0.35); border-radius: 14px; background: rgba(247, 92, 126, 0.06);">
-    <img src="https://cdn-icons-png.flaticon.com/512/1524/1524913.png" alt="Home" style="height: 55px; width: 55px; border-radius: 8px;">
-    <p style="margin: 8px 0 0; text-align: center; color: #F75C7E; font-weight: bold;">🏠 Home</p>
+  <a href="https://sanguiris.github.io/Pahimna/HOME.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/1524/1524913.png" width="55" height="55" alt="Home">
+    <p><strong>🏠 Home</strong></p>
   </a>
 
-  <a href="https://sanguiris.github.io/Pahimna/info.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; padding: 16px 24px; border: 1px solid rgba(247, 92, 126, 0.35); border-radius: 14px; background: rgba(247, 92, 126, 0.06);">
-    <img src="https://cdn-icons-png.flaticon.com/512/3050/3050159.png" alt="Portfolio" style="height: 55px; width: 55px; border-radius: 8px;">
-    <p style="margin: 8px 0 0; text-align: center; color: #F75C7E; font-weight: bold;">💼 Portfolio</p>
+  <a href="https://sanguiris.github.io/Pahimna/info.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/3050/3050159.png" width="55" height="55" alt="Portfolio">
+    <p><strong>💼 Portfolio</strong></p>
   </a>
 
 </div>
@@ -193,24 +193,21 @@
 
   <!-- ☀️/🌙 Streak Stats (auto theme switch) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sanguiris&theme=github-dark-dark&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sanguiris&theme=github-dark&hide_border=true">
     <img src="https://streak-stats.demolab.com/?user=sanguiris&theme=default&hide_border=true" alt="Streak Stats" style="width: 100%; height: auto; border-radius: 10px;">
   </picture>
 
   <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: flex-start; width: 100%;">
-
-    <!-- ☀️/🌙 GitHub Stats (auto theme switch) -->
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=sanguiris&theme=github_dark&hide_border=true">
-      <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=sanguiris&theme=default&hide_border=true" alt="GitHub Stats" style="max-width: 100%; height: auto; border-radius: 10px;">
-    </picture>
-
-    <!-- ☀️/🌙 Top Languages (auto theme switch) -->
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs?username=sanguiris&theme=github_dark&hide_border=true">
-      <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs?username=sanguiris&theme=default&hide_border=true" alt="Top Languages" style="max-width: 100%; height: auto; border-radius: 10px;">
-    </picture>
-
+  <!-- ☀️/🌙 GitHub Stats (auto theme switch) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=sanguiris&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=sanguiris&theme=default&hide_border=true" alt="GitHub Stats" style="max-width: 100%; height: auto; border-radius: 10px;">
+  </picture>
+  <!-- ☀️/🌙 Top Languages (auto theme switch) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs?username=sanguiris&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs?username=sanguiris&theme=default&hide_border=true" alt="Top Languages" style="max-width: 100%; height: auto; border-radius: 10px;">
+  </picture>
   </div>
 
   <!-- ☀️/🌙 Activity Graph (auto theme switch) -->
