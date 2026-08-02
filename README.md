@@ -253,7 +253,7 @@
 <br>
 
 <!-- 🌸 Footer -->
-<div align="center">
-  <img src="assets/anime-girl.gif" width="70" height="70" alt="Anime Girl" style="border-radius: 50%;">
-  <p><strong>Made with 💖 by Klenn Phimna</strong> — thanks for stopping by!</p>
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: center; padding: 10px;">
+  <img src="assets/anime-girl.gif" width="80" height="80" alt="Anime Girl" style="border-radius: 50%;">
+  <img src="assets/footer.svg" alt="Footer Card" style="max-width: 100%; height: auto;">
 </div>
