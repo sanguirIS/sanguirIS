@@ -24,7 +24,9 @@
   <img src="https://github-trophies.vercel.app/?username=sanguiris&theme=radical&no-frame=false&margin-w=5" alt="GitHub Trophies" style="max-width: 100%; height: auto;">
 </div>
 
----
+<div align="center">
+  <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
+</div>
 
 ## 🚀 About Me
 
@@ -55,7 +57,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
+</div>
 
 ## 🔗 My Web Projects
 
@@ -70,7 +74,9 @@
   </a>
 </div>
 
----
+<div align="center">
+  <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
+</div>
 
 ## 🤝 Connect with me:
 
@@ -110,7 +116,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
+</div>
 
 ## 🛠️ Languages and Tools:
 
@@ -170,7 +178,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
+</div>
 
 ## 📊 GitHub Stats
 
@@ -222,7 +232,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
+</div>
 
 ## 🎬 YouTube Videos
 

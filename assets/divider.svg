@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80" role="img" aria-label="Animated section divider">
+  <title>Animated Divider</title>
+
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f75c7e">
+        <animate attributeName="stop-color" values="#f75c7e;#8b5cf6;#ffb86c;#f75c7e" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#8b5cf6">
+        <animate attributeName="stop-color" values="#8b5cf6;#ffb86c;#f75c7e;#8b5cf6" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ffb86c">
+        <animate attributeName="stop-color" values="#ffb86c;#f75c7e;#8b5cf6;#ffb86c" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <radialGradient id="glowPink" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f75c7e" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#f75c7e" stop-opacity="0"/>
+    </radialGradient>
+
+    <style>
+      .sparkle { animation: twinkle 2.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .heart { animation: floaty 3.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .bracket { animation: floaty 5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .line-pulse { animation: pulse 4s ease-in-out infinite; }
+      .ring { animation: pulse 3s ease-in-out infinite; }
+
+      @keyframes twinkle {
+        0%,100% { opacity: 0.1; transform: scale(0.7); }
+        50% { opacity: 1; transform: scale(1.15); }
+      }
+      @keyframes floaty {
+        0%,100% { transform: translateY(0); }
+        50% { transform: translateY(-8px); }
+      }
+      @keyframes pulse {
+        0%,100% { opacity: 0.55; }
+        50% { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- Soft center glow -->
+  <circle cx="450" cy="40" r="60" fill="url(#glowPink)"/>
+
+  <!-- Animated gradient line (left) -->
+  <rect class="line-pulse" x="40" y="37" width="370" height="6" rx="3" fill="url(#lineGrad)"/>
+
+  <!-- Animated gradient line (right) -->
+  <rect class="line-pulse" x="490" y="37" width="370" height="6" rx="3" fill="url(#lineGrad)"/>
+
+  <!-- Center ornament: ring + floating heart -->
+  <circle class="ring" cx="450" cy="40" r="26" fill="none" stroke="url(#lineGrad)" stroke-width="2" stroke-dasharray="5 7" opacity="0.7"/>
+  <g class="heart">
+    <path d="M450 44 c-6 -10 -17 -10 -23 0 c-6 10 4 20 12 26 c8 -6 18 -16 12 -26 Z" fill="#f75c7e"/>
+  </g>
+
+  <!-- Twinkling sparkles -->
+  <g fill="#ffffff">
+    <path class="sparkle" d="M120 42 l2.5 7.5 l7.5 2.5 l-7.5 2.5 l-2.5 7.5 l-2.5 -7.5 l-7.5 -2.5 l7.5 -2.5 Z" style="animation-delay:0s"/>
+    <path class="sparkle" d="M210 28 l2 6 l6 2 l-6 2 l-2 6 l-2 -6 l-6 -2 l6 -2 Z" fill="#ffb86c" style="animation-delay:.7s"/>
+    <path class="sparkle" d="M300 48 l1.8 5.4 l5.4 1.8 l-5.4 1.8 l-1.8 5.4 l-1.8 -5.4 l-5.4 -1.8 l5.4 -1.8 Z" fill="#8b5cf6" style="animation-delay:1.4s"/>
+    <path class="sparkle" d="M370 30 l1.6 4.8 l4.8 1.6 l-4.8 1.6 l-1.6 4.8 l-1.6 -4.8 l-4.8 -1.6 l4.8 -1.6 Z" style="animation-delay:2.1s"/>
+    <path class="sparkle" d="M540 30 l1.6 4.8 l4.8 1.6 l-4.8 1.6 l-1.6 4.8 l-1.6 -4.8 l-4.8 -1.6 l4.8 -1.6 Z" style="animation-delay:.4s"/>
+    <path class="sparkle" d="M620 48 l1.8 5.4 l5.4 1.8 l-5.4 1.8 l-1.8 5.4 l-1.8 -5.4 l-5.4 -1.8 l5.4 -1.8 Z" fill="#8b5cf6" style="animation-delay:1.1s"/>
+    <path class="sparkle" d="M710 28 l2 6 l6 2 l-6 2 l-2 6 l-2 -6 l-6 -2 l6 -2 Z" fill="#ffb86c" style="animation-delay:1.8s"/>
+    <path class="sparkle" d="M800 42 l2.5 7.5 l7.5 2.5 l-7.5 2.5 l-2.5 7.5 l-2.5 -7.5 l-7.5 -2.5 l7.5 -2.5 Z" style="animation-delay:2.4s"/>
+  </g>
+
+  <!-- Floating code brackets -->
+  <g class="bracket" fill="#8b5cf6" opacity="0.5">
+    <text x="52" y="62" font-family="'Fira Code','Consolas',monospace" font-size="20" font-weight="700">&lt;/&gt;</text>
+  </g>
+  <g class="bracket" fill="#f75c7e" opacity="0.5" style="animation-delay:1.2s">
+    <text x="824" y="62" font-family="'Fira Code','Consolas',monospace" font-size="20" font-weight="700">{ }</text>
+  </g>
+</svg>
