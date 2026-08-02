@@ -1,26 +1,36 @@
 <div align="center">
-  <img src="https://yt3.googleusercontent.com/-YyrgAitussZNHYJ4zu71_0_77HBOye21wfDggsJJmwBxHtFoturuAcyrJh6CpD8T45laU2VsQ=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Developer Banner" style="max-width: 50%; height: auto; border-radius: 10px; display: block;">
-  
-  <h1 style="color: #0366d6; margin: 20px 0;">Hi 👋, I'm Klenn Phimna</h1>
-  <h3 style="color: #555; margin: 10px 0;">😍I'm a Developer for crafting innovative solutions. 💻I'm always learning and ready to collaborate on exciting projects!</h3>
+
+<!-- 🌟 Custom Animated Banner -->
+<img src="assets/banner.svg" alt="Klenn Phimna - Developer &amp; Creator" style="width: 100%; max-width: 100%; height: auto;">
+
+<br>
+
+<!-- 🎀 Animated Anime Girl -->
+<img src="assets/anime-girl.gif" width="120" height="120" alt="Cute Anime Girl" style="border-radius: 50%;">
+
+<h1>Hi 👋, I'm <span style="color: #F75C7E;">Klenn Phimna</span></h1>
+
+<!-- ⌨️ Animated Typing Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=Developer+%26+Creator;Always+learning+new+things;Python,+PHP,+SQL,+C%23,+JavaScript;Let%27s+build+something+awesome%21" alt="Typing Animation">
+
+<h3>😍 I'm a Developer for crafting innovative solutions. 💻 I'm always learning and ready to collaborate on exciting projects!</h3>
+
 </div>
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: flex-start; padding: 0 10px;">
-  <div style="flex: 1; min-width: 280px; max-width: 100%;">
-    <img src="https://github-trophies.vercel.app/?username=sanguiris" alt="GitHub Trophies" style="max-width: 100%; height: auto; display: block;">
-  </div>
+<!-- 🏆 Trophies -->
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=sanguiris&theme=radical&no-frame=false&margin-w=5" alt="GitHub Trophies" style="max-width: 100%; height: auto;">
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" width="130" src="https://github.com/user-attachments/assets/452443cf-8869-449b-929a-ddc526219ba0" alt="Profile Picture" style="border-radius: 5px;">
-</p>
-  
-  <div style="flex: 1; min-width: 250px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; padding: 10px;">
+
+  <div style="flex: 1 1 320px; min-width: 260px; max-width: 100%;">
     <p style="font-size: 1rem; line-height: 1.7; margin: 12px 0;">
       <strong>🌱 I'm currently diving deep into:</strong><br>
       Python, PHP, SQL, C#, JavaScript, and CSS5
@@ -31,25 +41,32 @@
     </p>
     <p style="font-size: 1rem; line-height: 1.7; margin: 12px 0;">
       <strong>⚡ Fun fact:</strong><br>
-      It's Cramming Time!🤣
+      It's Cramming Time! 🤣
     </p>
+    <a href="mailto:klenn31is18pahimna@gmail.com" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Email-Give%20Feedback-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </div>
 
-<p>
-  <a href="mailto:klenn31is18pahimna@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-Give%20Feedback-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+  <div style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 12px; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/452443cf-8869-449b-929a-ddc526219ba0" width="130" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #F75C7E;">
+    <img src="assets/hello.gif" width="110" alt="Hello Anime Girl" style="border-radius: 12px;">
+  </div>
+
+</div>
 
 ---
 
 ## 🔗 My Web Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: flex-start; align-items: center; padding: 0 10px;">
-  <a href="https://sanguiris.github.io/Pahimna/HOME.html" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn-icons-png.flaticon.com/512/1524/1524913.png" alt="Home" style="height: 50px; width: 50px; border-radius: 5px; display: block; cursor: pointer;" /> 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; padding: 10px;">
+  <a href="https://sanguiris.github.io/Pahimna/HOME.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/1524/1524913.png" alt="Home" style="height: 55px; width: 55px; border-radius: 8px;">
+    <p style="margin: 4px 0 0; text-align: center; color: #F75C7E; font-weight: bold;">🏠 Home</p>
   </a>
-  <a href="https://sanguiris.github.io/Pahimna/info.html" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://cdn-icons-png.flaticon.com/512/3050/3050159.png" alt="Portfolio" style="height: 50px; width: 50px; border-radius: 5px; display: block; cursor: pointer;"/>
+  <a href="https://sanguiris.github.io/Pahimna/info.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/3050/3050159.png" alt="Portfolio" style="height: 55px; width: 55px; border-radius: 8px;">
+    <p style="margin: 4px 0 0; text-align: center; color: #F75C7E; font-weight: bold;">💼 Portfolio</p>
   </a>
 </div>
 
@@ -57,154 +74,154 @@
 
 ## 🤝 Connect with me:
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: flex-start; align-items: center; padding: 0 10px;">
-  <a href="https://codepen.io/sanguiris" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" style="height: 40px; width: 40px; display: block; cursor: pointer;" />
+<div style="display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; align-items: center; padding: 10px;">
+
+  <a href="https://codepen.io/sanguiris" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" style="height: 40px; width: 40px;">
   </a>
-  
-  <a href="https://dev.to/sanguiris" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" style="height: 40px; width: 40px; display: block; cursor: pointer;" />
+
+  <a href="https://dev.to/sanguiris" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" style="height: 40px; width: 40px;">
   </a>
-  
-  <a href="https://twitter.com/KPahimna" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" style="height: 40px; width: 40px; display: block; cursor: pointer;" />
+
+  <a href="https://twitter.com/KPahimna" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" style="height: 40px; width: 40px;">
   </a>
-  
-  <a href="https://www.linkedin.com/in/djkam42pahimna" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="height: 40px; width: 40px; display: block; cursor: pointer;" />
+
+  <a href="https://www.linkedin.com/in/djkam42pahimna" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="height: 40px; width: 40px;">
   </a>
-  
-  <a href="https://stackoverflow.com/users/21699471/klenn-pahimna" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" style="height: 40px; width: 40px; display: block; cursor: pointer;" />
+
+  <a href="https://stackoverflow.com/users/21699471/klenn-pahimna" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" style="height: 40px; width: 40px;">
   </a>
-  
-  <a href="https://www.youtube.com/@CodingMR" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" style="height: 40px; width: 40px; display: block; cursor: pointer;" />
+
+  <a href="https://www.youtube.com/@DEVKLENN" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" style="height: 40px; width: 40px;">
   </a>
-  
-  <a href="https://www.hackerrank.com/djkam42pahimna" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" style="height: 40px; width: 40px; display: block; cursor: pointer;" />
+
+  <a href="https://www.hackerrank.com/djkam42pahimna" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" style="height: 40px; width: 40px;">
   </a>
-  
-  <a href="https://www.tiktok.com/@com4_4ksec" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/2840/tiktok-logo-512.png" alt="TikTok" style="height: 40px; width: 40px; display: block; cursor: pointer;" />
+
+  <a href="https://www.tiktok.com/@com4_4ksec" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/2840/tiktok-logo-512.png" alt="TikTok" style="height: 40px; width: 40px; border-radius: 8px;">
   </a>
+
 </div>
 
 ---
 
 ## 🛠️ Languages and Tools:
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: flex-start; align-items: center; padding: 0 10px;">
-  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" style="width: 45px; height: 45px; display: block; cursor: pointer;" />
+<div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: center; align-items: center; padding: 10px;">
+
+  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" style="width: 45px; height: 45px;">
   </a>
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" style="width: 45px; height: 45px; display: block; cursor: pointer;" />
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" style="width: 45px; height: 45px;">
   </a>
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" style="width: 45px; height: 45px; display: block; cursor: pointer;" />
+
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" style="width: 45px; height: 45px;">
   </a>
-  
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" style="width: 45px; height: 45px; display: block; cursor: pointer;" />
+
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" style="width: 45px; height: 45px;">
   </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" style="width: 45px; height: 45px; display: block; cursor: pointer;" />
+
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" style="width: 45px; height: 45px;">
   </a>
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width: 45px; height: 45px; display: block; cursor: pointer;" />
+
+  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" style="width: 45px; height: 45px;">
   </a>
-  
-  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="width: 45px; height: 45px; display: block; cursor: pointer;" />
+
+  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="width: 45px; height: 45px;">
   </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 45px; height: 45px; display: block; cursor: pointer;" />
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 45px; height: 45px;">
   </a>
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" style="width: 45px; height: 45px; display: block; cursor: pointer;" />
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" style="width: 45px; height: 45px;">
   </a>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="width: 45px; height: 45px; display: block; cursor: pointer;" />
+
+  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="width: 45px; height: 45px;">
   </a>
-  
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width: 45px; height: 45px; display: block; cursor: pointer;" />
+
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width: 45px; height: 45px;">
   </a>
-  
-  <a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" style="width: 45px; height: 45px; display: block; cursor: pointer;" />
+
+  <a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" style="width: 45px; height: 45px;">
   </a>
-  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(-5deg)'" onmouseout="this.style.transform='scale(1) rotate(0)'">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" style="width: 45px; height: 45px; display: block; cursor: pointer;" />
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" style="width: 45px; height: 45px;">
   </a>
+
 </div>
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 20px 10px; overflow-x: auto;">
-  <div style="flex: 1; min-width: 100%; max-width: 100%;">
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=sanguiris" target="_blank" rel="noopener noreferrer" style="display: block;">
-      <img style="max-width: 100%; height: auto; width: 100%; border-radius: 10px; transition: transform 0.3s ease;" src="https://github-readme-streak-stats.herokuapp.com/?user=sanguiris&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true" alt="Streak Stats" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
+## 📊 GitHub Stats
+
+<div style="display: flex; flex-direction: column; gap: 15px; align-items: center; padding: 10px;">
+
+  <a href="https://github.com/sanguiris" target="_blank" rel="noopener noreferrer" style="width: 100%; max-width: 800px;">
+    <img src="https://streak-stats.demolab.com/?user=sanguiris&theme=radical&hide_border=true" alt="Streak Stats" style="width: 100%; max-width: 100%; height: auto; border-radius: 10px;">
+  </a>
+
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: flex-start; width: 100%;">
+    <a href="https://github.com/sanguiris" target="_blank" rel="noopener noreferrer">
+      <img src="https://github-stats-alpha.vercel.app/api?username=sanguiris" alt="GitHub Stats" style="max-width: 100%; height: auto; border-radius: 10px;">
     </a>
   </div>
-  
-  <div style="flex: 1; min-width: 100%; max-width: 100%;">
-    <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanguiris" target="_blank" rel="noopener noreferrer" style="display: block;">
-      <img style="max-width: 100%; height: auto; width: 100%; border-radius: 10px; transition: transform 0.3s ease;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanguiris&theme=dracula" alt="Profile Details" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
-    </a>
-  </div>
-  
-  <div style="flex: 1; min-width: 100%; max-width: 100%;">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=sanguiris" target="_blank" rel="noopener noreferrer" style="display: block;">
-      <img style="max-width: 100%; height: auto; width: 100%; border-radius: 10px; transition: transform 0.3s ease;" src="https://github-readme-activity-graph.vercel.app/graph?username=sanguiris&theme=dracula" alt="Activity Graph" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
-    </a>
-  </div>
-</div>
 
-<br>
+  <a href="https://github.com/sanguiris" target="_blank" rel="noopener noreferrer" style="width: 100%; max-width: 100%;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanguiris&theme=dracula" alt="Activity Graph" style="width: 100%; max-width: 100%; height: auto; border-radius: 10px;">
+  </a>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; padding: 0 10px;">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanguiris" target="_blank" rel="noopener noreferrer" style="display: block;">
-    <img style="max-width: 100%; height: auto; width: 100%; border-radius: 10px; transition: transform 0.3s ease;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanguiris&theme=dracula" alt="Repos by Language" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanguiris" target="_blank" rel="noopener noreferrer" style="display: block;">
-    <img style="max-width: 100%; height: auto; width: 100%; border-radius: 10px; transition: transform 0.3s ease;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanguiris&theme=dracula" alt="Most Commit Language" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanguiris" target="_blank" rel="noopener noreferrer" style="display: block;">
-    <img style="max-width: 100%; height: auto; width: 100%; border-radius: 10px; transition: transform 0.3s ease;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanguiris&theme=dracula" alt="GitHub Stats" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanguiris" target="_blank" rel="noopener noreferrer" style="display: block;">
-    <img style="max-width: 100%; height: auto; width: 100%; border-radius: 10px; transition: transform 0.3s ease;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanguiris&theme=dracula" alt="Productive Time" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-</div>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&layout=socrates" alt="Daily Quote" style="max-width: 100%; height: auto; border-radius: 10px;">
 
-<br>
+  <p style="margin: 14px 0 4px;"><strong>👀 Profile Views</strong></p>
+  <a href="https://github.com/sanguiris" target="_blank" rel="noopener noreferrer">
+    <img src="https://komarev.com/ghpvc/?username=sanguiris&style=for-the-badge&color=F75C7E" alt="Profile Views" style="max-width: 100%; height: auto;">
+  </a>
 
-<div style="text-align: center; padding: 0 10px;">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&layout=socrates" alt="Daily Quote" style="max-width: 100%; height: auto; display: block;">
+  <p style="margin: 14px 0 4px;"><strong>🐍 My Contribution Snake</strong></p>
+  <img src="https://raw.githubusercontent.com/sanguirIS/sanguirIS/output/github-snake.svg" alt="Contribution Snake" style="max-width: 100%; height: auto;">
+
 </div>
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start; padding: 20px 10px; align-items: center;">
-  <a href="https://youtu.be/-a6iMUM3caE?si=snDw1MgDcjmKWxiV" target="_blank" rel="noopener noreferrer" style="display: block; flex: 1; min-width: 280px; max-width: 100%; transition: transform 0.3s ease;">
-    <img style="max-width: 100%; height: auto; border-radius: 10px; transition: transform 0.3s ease; display: block;" src="https://ytcards.demolab.com/?id=-a6iMUM3caE&title=Windows+Utility+Created+%7C+by+Christitus+2025&lang=en&timestamp=1905504000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123" alt="Windows Utility Video" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+## 🎬 YouTube Videos
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: flex-start; padding: 10px;">
+
+  <a href="https://youtu.be/-a6iMUM3caE?si=snDw1MgDcjmKWxiV" target="_blank" rel="noopener noreferrer">
+    <img src="https://ytcards.demolab.com/?id=-a6iMUM3caE&title=Windows+Utility+Created+%7C+by+Christitus+2025&lang=en&timestamp=1905504000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123" alt="Windows Utility Video" style="max-width: 100%; height: auto; border-radius: 10px;">
   </a>
-  
-  <a href="https://www.youtube.com/watch?v=lfFQEIIXpGc" target="_blank" rel="noopener noreferrer" style="display: block; flex: 1; min-width: 280px; max-width: 100%; transition: transform 0.3s ease;">
-    <img style="max-width: 100%; height: auto; border-radius: 10px; transition: transform 0.3s ease; display: block;" src="https://ytcards.demolab.com/?id=lfFQEIIXpGc&title=UPDATE+AND+DELETE+PARTITION+DRIVE&lang=en&timestamp=1905504000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425" alt="Partition Drive Video" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+
+  <a href="https://www.youtube.com/watch?v=lfFQEIIXpGc" target="_blank" rel="noopener noreferrer">
+    <img src="https://ytcards.demolab.com/?id=lfFQEIIXpGc&title=UPDATE+AND+DELETE+PARTITION+DRIVE&lang=en&timestamp=1905504000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=425" alt="Partition Drive Video" style="max-width: 100%; height: auto; border-radius: 10px;">
   </a>
+
+</div>
+
+<br>
+
+<!-- 🌸 Footer -->
+<div align="center">
+  <img src="assets/anime-girl.gif" width="70" height="70" alt="Anime Girl" style="border-radius: 50%;">
+  <p><strong>Made with 💖 by Klenn Phimna</strong> — thanks for stopping by!</p>
 </div>
