@@ -1,0 +1,9 @@
+# Normalize line endings: store LF in the repo, use native endings on checkout
+* text=auto
+
+# Keep specific file types consistent
+*.md text eol=lf
+*.svg text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.gif binary
