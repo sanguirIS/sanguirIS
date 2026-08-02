@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🌟 Custom Animated Banner -->
-<img src="assets/banner.svg" alt="Klenn Phimna - Developer &amp; Creator" style="width: 100%; max-width: 100%; height: auto;">
+<img src="assets/banner.svg" alt="Klenn Phimna - Developer &amp; Creator" style="width: 100%; height: auto;">
 
 <br>
 
@@ -11,9 +11,11 @@
 <h1>Hi 👋, I'm <span style="color: #F75C7E;">Klenn Phimna</span></h1>
 
 <!-- ⌨️ Animated Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=Developer+%26+Creator;Always+learning+new+things;Python,+PHP,+SQL,+C%23,+JavaScript;Let%27s+build+something+awesome%21" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=Developer+%26+Creator;Always+learning+new+things;Python,+PHP,+SQL,+C%23,+JavaScript;Let%27s+build+something+awesome%21" alt="Typing Animation" style="max-width: 100%; height: auto;">
 
-<h3>😍 I'm a Developer for crafting innovative solutions. 💻 I'm always learning and ready to collaborate on exciting projects!</h3>
+<p style="font-size: 1.05rem; line-height: 1.7;">
+  😍 I'm a Developer crafting innovative solutions. 💻 Always learning and ready to collaborate on exciting projects!
+</p>
 
 </div>
 
@@ -24,7 +26,7 @@
   <img src="https://github-trophies.vercel.app/?username=sanguiris&theme=radical&no-frame=false&margin-w=5" alt="GitHub Trophies" style="max-width: 100%; height: auto;">
 </div>
 
-<div align="center">
+<div align="center" style="margin: 30px 0;">
   <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
 </div>
 
@@ -35,7 +37,7 @@
   <div style="flex: 1 1 320px; min-width: 260px; max-width: 100%;">
     <p style="font-size: 1rem; line-height: 1.7; margin: 12px 0;">
       <strong>🌱 I'm currently diving deep into:</strong><br>
-      Python, PHP, SQL, C#, JavaScript, and CSS5
+      Python, PHP, SQL, C#, JavaScript, and CSS3
     </p>
     <p style="font-size: 1rem; line-height: 1.7; margin: 12px 0;">
       <strong>💬 Ask me about:</strong><br>
@@ -57,24 +59,27 @@
 
 </div>
 
-<div align="center">
+<div align="center" style="margin: 30px 0;">
   <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
 </div>
 
 ## 🔗 My Web Projects
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; padding: 10px;">
-  <a href="https://sanguiris.github.io/Pahimna/HOME.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+
+  <a href="https://sanguiris.github.io/Pahimna/HOME.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; padding: 16px 24px; border: 1px solid rgba(247, 92, 126, 0.35); border-radius: 14px; background: rgba(247, 92, 126, 0.06);">
     <img src="https://cdn-icons-png.flaticon.com/512/1524/1524913.png" alt="Home" style="height: 55px; width: 55px; border-radius: 8px;">
-    <p style="margin: 4px 0 0; text-align: center; color: #F75C7E; font-weight: bold;">🏠 Home</p>
+    <p style="margin: 8px 0 0; text-align: center; color: #F75C7E; font-weight: bold;">🏠 Home</p>
   </a>
-  <a href="https://sanguiris.github.io/Pahimna/info.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+
+  <a href="https://sanguiris.github.io/Pahimna/info.html" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; padding: 16px 24px; border: 1px solid rgba(247, 92, 126, 0.35); border-radius: 14px; background: rgba(247, 92, 126, 0.06);">
     <img src="https://cdn-icons-png.flaticon.com/512/3050/3050159.png" alt="Portfolio" style="height: 55px; width: 55px; border-radius: 8px;">
-    <p style="margin: 4px 0 0; text-align: center; color: #F75C7E; font-weight: bold;">💼 Portfolio</p>
+    <p style="margin: 8px 0 0; text-align: center; color: #F75C7E; font-weight: bold;">💼 Portfolio</p>
   </a>
+
 </div>
 
-<div align="center">
+<div align="center" style="margin: 30px 0;">
   <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
 </div>
 
@@ -116,7 +121,7 @@
 
 </div>
 
-<div align="center">
+<div align="center" style="margin: 30px 0;">
   <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
 </div>
 
@@ -178,7 +183,7 @@
 
 </div>
 
-<div align="center">
+<div align="center" style="margin: 30px 0;">
   <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
 </div>
 
@@ -189,7 +194,7 @@
   <!-- ☀️/🌙 Streak Stats (auto theme switch) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sanguiris&theme=github-dark-dark&hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=sanguiris&theme=default&hide_border=true" alt="Streak Stats" style="width: 100%; max-width: 100%; height: auto; border-radius: 10px;">
+    <img src="https://streak-stats.demolab.com/?user=sanguiris&theme=default&hide_border=true" alt="Streak Stats" style="width: 100%; height: auto; border-radius: 10px;">
   </picture>
 
   <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: flex-start; width: 100%;">
@@ -211,7 +216,7 @@
   <!-- ☀️/🌙 Activity Graph (auto theme switch) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanguiris&theme=github-dark">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanguiris&theme=github-light" alt="Activity Graph" style="width: 100%; max-width: 100%; height: auto; border-radius: 10px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanguiris&theme=github-light" alt="Activity Graph" style="width: 100%; height: auto; border-radius: 10px;">
   </picture>
 
   <!-- ☀️/🌙 Daily Quote (auto theme switch) -->
@@ -233,24 +238,9 @@
     <img src="https://raw.githubusercontent.com/sanguirIS/sanguirIS/output/github-snake.svg" alt="Contribution Snake" style="max-width: 100%; height: auto;">
   </picture>
 
-  <!-- 🌗 Manual toggle: view both variants side by side -->
-  <details>
-    <summary style="cursor: pointer; font-weight: 600; color: #F75C7E;">🌗 Show Light &amp; Dark variants</summary>
-    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center; padding: 10px;">
-      <div style="flex: 1 1 300px; min-width: 260px; max-width: 100%;">
-        <p style="margin: 6px 0; font-weight: 600;">☀️ Light Mode</p>
-        <img src="https://raw.githubusercontent.com/sanguirIS/sanguirIS/output/github-snake.svg" alt="Contribution Snake (Light)" style="max-width: 100%; height: auto; border-radius: 10px;">
-      </div>
-      <div style="flex: 1 1 300px; min-width: 260px; max-width: 100%;">
-        <p style="margin: 6px 0; font-weight: 600;">🌙 Dark Mode</p>
-        <img src="https://raw.githubusercontent.com/sanguirIS/sanguirIS/output/github-snake-dark.svg" alt="Contribution Snake (Dark)" style="max-width: 100%; height: auto; border-radius: 10px;">
-      </div>
-    </div>
-  </details>
-
 </div>
 
-<div align="center">
+<div align="center" style="margin: 30px 0;">
   <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
 </div>
 
@@ -271,7 +261,6 @@
 <br>
 
 <!-- 🌸 Footer -->
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: center; padding: 10px;">
-  <img src="assets/anime-girl.gif" width="80" height="80" alt="Anime Girl" style="border-radius: 50%;">
+<div align="center">
   <img src="assets/footer.svg" alt="Footer Card" style="max-width: 100%; height: auto;">
 </div>
