@@ -214,7 +214,11 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanguiris&theme=github-light" alt="Activity Graph" style="width: 100%; max-width: 100%; height: auto; border-radius: 10px;">
   </picture>
 
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&layout=socrates" alt="Daily Quote" style="max-width: 100%; height: auto; border-radius: 10px;">
+  <!-- ☀️/🌙 Daily Quote (auto theme switch) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=github-dark&layout=socrates">
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&layout=socrates" alt="Daily Quote" style="max-width: 100%; height: auto; border-radius: 10px;">
+  </picture>
 
   <p style="margin: 14px 0 4px;"><strong>👀 Profile Views</strong></p>
   <a href="https://github.com/sanguiris" target="_blank" rel="noopener noreferrer">
