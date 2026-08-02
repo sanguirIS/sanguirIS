@@ -198,10 +198,27 @@
   </a>
 
   <p style="margin: 14px 0 4px;"><strong>🐍 My Contribution Snake</strong></p>
+
+  <!-- 🌗 Auto theme switch -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanguirIS/sanguirIS/output/github-snake-dark.svg">
     <img src="https://raw.githubusercontent.com/sanguirIS/sanguirIS/output/github-snake.svg" alt="Contribution Snake" style="max-width: 100%; height: auto;">
   </picture>
+
+  <!-- 🌗 Manual toggle: view both variants side by side -->
+  <details>
+    <summary style="cursor: pointer; font-weight: 600; color: #F75C7E;">🌗 Show Light &amp; Dark variants</summary>
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center; padding: 10px;">
+      <div style="flex: 1 1 300px; min-width: 260px; max-width: 100%;">
+        <p style="margin: 6px 0; font-weight: 600;">☀️ Light Mode</p>
+        <img src="https://raw.githubusercontent.com/sanguirIS/sanguirIS/output/github-snake.svg" alt="Contribution Snake (Light)" style="max-width: 100%; height: auto; border-radius: 10px;">
+      </div>
+      <div style="flex: 1 1 300px; min-width: 260px; max-width: 100%;">
+        <p style="margin: 6px 0; font-weight: 600;">🌙 Dark Mode</p>
+        <img src="https://raw.githubusercontent.com/sanguirIS/sanguirIS/output/github-snake-dark.svg" alt="Contribution Snake (Dark)" style="max-width: 100%; height: auto; border-radius: 10px;">
+      </div>
+    </div>
+  </details>
 
 </div>
 
