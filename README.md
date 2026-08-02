@@ -186,19 +186,33 @@
 
 <div style="display: flex; flex-direction: column; gap: 15px; align-items: center; padding: 10px;">
 
-  <a href="https://github.com/sanguiris" target="_blank" rel="noopener noreferrer" style="width: 100%; max-width: 800px;">
-    <img src="https://streak-stats.demolab.com/?user=sanguiris&theme=radical&hide_border=true" alt="Streak Stats" style="width: 100%; max-width: 100%; height: auto; border-radius: 10px;">
-  </a>
+  <!-- ☀️/🌙 Streak Stats (auto theme switch) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sanguiris&theme=github-dark-dark&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=sanguiris&theme=default&hide_border=true" alt="Streak Stats" style="width: 100%; max-width: 100%; height: auto; border-radius: 10px;">
+  </picture>
 
   <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: flex-start; width: 100%;">
-    <a href="https://github.com/sanguiris" target="_blank" rel="noopener noreferrer">
-      <img src="https://github-stats-alpha.vercel.app/api?username=sanguiris" alt="GitHub Stats" style="max-width: 100%; height: auto; border-radius: 10px;">
-    </a>
+
+    <!-- ☀️/🌙 GitHub Stats (auto theme switch) -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=sanguiris&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=sanguiris&theme=default&hide_border=true" alt="GitHub Stats" style="max-width: 100%; height: auto; border-radius: 10px;">
+    </picture>
+
+    <!-- ☀️/🌙 Top Languages (auto theme switch) -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs?username=sanguiris&theme=github_dark&hide_border=true">
+      <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs?username=sanguiris&theme=default&hide_border=true" alt="Top Languages" style="max-width: 100%; height: auto; border-radius: 10px;">
+    </picture>
+
   </div>
 
-  <a href="https://github.com/sanguiris" target="_blank" rel="noopener noreferrer" style="width: 100%; max-width: 100%;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanguiris&theme=dracula" alt="Activity Graph" style="width: 100%; max-width: 100%; height: auto; border-radius: 10px;">
-  </a>
+  <!-- ☀️/🌙 Activity Graph (auto theme switch) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanguiris&theme=github-dark">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanguiris&theme=github-light" alt="Activity Graph" style="width: 100%; max-width: 100%; height: auto; border-radius: 10px;">
+  </picture>
 
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&layout=socrates" alt="Daily Quote" style="max-width: 100%; height: auto; border-radius: 10px;">
 
