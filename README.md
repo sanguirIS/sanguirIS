@@ -63,10 +63,10 @@
 
 <div align="left">
   <a href="https://sanguiris.github.io/Pahimna/HOME.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/1524/1524913.png" width="55" height="55" alt="Home">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdqOGhyNmcxZHoyY2djOHJybWV3eHpubmRqOXduNnljNHZwenhsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dxIMQ7WjycKXbmzc9A/giphy.gif" width="55" height="55" alt="Home">
     
   <a href="https://sanguiris.github.io/Pahimna/info.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/3050/3050159.png" width="55" height="55" alt="Portfolio">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZpNHJ4eWZtZndkZXhyYTc1aWI2Zmp5ZG92N2FxaHRmZmR0Nmw2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ftr4VZuG7KPR2D5Mz2/giphy.gif" width="55" height="55" alt="Portfolio">
     <p>
   </a>
 </div>
