@@ -181,8 +181,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   <img src="https://raw.githubusercontent.com/sanguiris/sanguiris/main/github-metrics.svg" alt="GitHub Metrics" style="max-width: 100%; height: auto;">
+  <img src="https://raw.githubusercontent.com/sanguiris/sanguiris/main/metrics.terminal.svg" alt="GitHub Metrics Terminal" style="max-width: 100%; height: auto;">
 </div>
 
 <div align="center" style="margin: 30px 0;">
