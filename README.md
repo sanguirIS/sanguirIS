@@ -181,52 +181,8 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-direction: column; gap: 15px; align-items: center; padding: 10px;">
-
-  <!-- ☀️/🌙 Streak Stats (auto theme switch) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sanguiris&theme=github-dark&hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=sanguiris&theme=default&hide_border=true" alt="Streak Stats" style="width: 100%; height: auto; border-radius: 10px;">
-  </picture>
-
-  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: flex-start; width: 100%;">
-  <!-- ☀️/🌙 GitHub Stats (auto theme switch) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=sanguiris&theme=github_dark&hide_border=true">
-    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=sanguiris&theme=default&hide_border=true" alt="GitHub Stats" style="max-width: 100%; height: auto; border-radius: 10px;">
-  </picture>
-  <!-- ☀️/🌙 Top Languages (auto theme switch) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs?username=sanguiris&theme=github_dark&hide_border=true">
-    <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs?username=sanguiris&theme=default&hide_border=true" alt="Top Languages" style="max-width: 100%; height: auto; border-radius: 10px;">
-  </picture>
-  </div>
-
-  <!-- ☀️/🌙 Activity Graph (auto theme switch) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanguiris&theme=github-dark">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanguiris&theme=github-light" alt="Activity Graph" style="width: 100%; height: auto; border-radius: 10px;">
-  </picture>
-
-  <!-- ☀️/🌙 Daily Quote (auto theme switch) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes-bay.vercel.app/quote?theme=github-dark&layout=socrates">
-    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&layout=socrates" alt="Daily Quote" style="max-width: 100%; height: auto; border-radius: 10px;">
-  </picture>
-
-  <p style="margin: 14px 0 4px;"><strong>👀 Profile Views</strong></p>
-  <a href="https://github.com/sanguiris" target="_blank" rel="noopener noreferrer">
-    <img src="https://komarev.com/ghpvc/?username=sanguiris&style=for-the-badge&color=F75C7E" alt="Profile Views" style="max-width: 100%; height: auto;">
-  </a>
-
-  <p style="margin: 14px 0 4px;"><strong>🐍 My Contribution Snake</strong></p>
-
-  <!-- 🌗 Auto theme switch -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanguirIS/sanguirIS/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/sanguirIS/sanguirIS/output/github-snake.svg" alt="Contribution Snake" style="max-width: 100%; height: auto;">
-  </picture>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sanguiris/sanguiris/main/github-metrics.svg" alt="GitHub Metrics" style="max-width: 100%; height: auto;">
 </div>
 
 <div align="center" style="margin: 30px 0;">
