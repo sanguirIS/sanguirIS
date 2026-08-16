@@ -86,7 +86,6 @@
 <div style="max-width:900px; margin:0 auto;">
   <h3 style="color:#F75C7E; margin-bottom:25px; text-align:center; font-size:1.4rem;">Languages & Development Tools</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center; align-items: center; padding: 15px;">
-
     <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer" title="Bootstrap">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" style="width: 55px; height: 55px; transition:transform 0.2s;">
     </a>
@@ -165,7 +164,6 @@
 <div style="max-width:900px; margin:0 auto;">
   <h3 style="color:#F75C7E; margin-bottom:25px; text-align:center; font-size:1.4rem;">Connect With Me</h3>
   <div style="display: flex; flex-wrap: wrap; gap:20px; justify-content: center; align-items: center; padding: 15px;">
-
     <a href="https://codepen.io/sanguiris" target="_blank" rel="noopener noreferrer" title="CodePen">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" style="height: 45px; width: 45px;">
     </a>
@@ -203,12 +201,11 @@
 <div style="max-width:900px; margin:0 auto;">
   <h3 style="color:#F75C7E; margin-bottom:25px; text-align:center; font-size:1.4rem;">Latest Tutorials & Projects</h3>
   <div style="display: flex; flex-wrap: wrap; gap:30px; justify-content: center; align-items: flex-start; padding: 15px;">
-
     <a href="https://youtu.be/-a6iMUM3caE?si=snDw1MgDcjmKWxiV" target="_blank" rel="noopener noreferrer">
-      <img src="https://ytcards.demolab.com/?id=-a6iMUM3caE&title=Windows+Utility+Development+Tutorial&lang=en&timestamp=1905504000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=280&border_radius=8&duration=123" alt="Windows Utility Video" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://ytcards.demolab.com/?id=-a6iMUM3caE&title=Windows+Utility+Created+%7C+by+Christitus+2025&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=280&border_radius=8&duration=124" alt="Windows Utility Created by Christitus 2025" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
     </a>
     <a href="https://www.youtube.com/watch?v=lfFQEIIXpGc" target="_blank" rel="noopener noreferrer">
-      <img src="https://ytcards.demolab.com/?id=lfFQEIIXpGc&title=Windows+Drive+Partition+Management+Guide&lang=en&timestamp=1905504000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=280&border_radius=8&duration=425" alt="Partition Drive Tutorial" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
+      <img src="https://ytcards.demolab.com/?id=lfFQEIIXpGc&title=Fix+Partitions+on+SSD+%26+USB+%7C+Windows+10+%26+11+(Tagalog)+2025&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=280&border_radius=8&duration=425" alt="Fix Partitions on SSD and USB (Windows 10/11, Tagalog)" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
     </a>
 
   </div>
@@ -219,5 +216,5 @@
 <!-- 🌸 Professional Footer -->
 <div align="center">
   <img src="assets/footer.svg" alt="Portfolio Footer" style="max-width: 100%; height: auto;">
-  <p style="font-size:0.9rem; color:#8b949e; margin-top:20px;">© 2025 Klenn Pahimna. All rights reserved.</p>
+  <p style="font-size:0.9rem; color:#8b949e; margin-top:20px;">© 2026 Klenn Pahimna. All rights reserved.</p>
 </div>

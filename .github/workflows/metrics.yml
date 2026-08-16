@@ -44,13 +44,19 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_details: percentage
-          plugin_habits: yes
+          # Disabled: upstream bug — habits plugin throws a generic error against
+          # current GitHub API data (events no longer include payload.commits).
+          # See lowlighter/metrics discussion #1773. Re-enable if upstream fixes it.
+          plugin_habits: no
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: no
           plugin_habits_from: 200
           plugin_traffic: yes
-          plugin_achievements: yes
+          # Disabled: upstream bug — the achievements plugin queries the deprecated
+          # Projects (classic) GraphQL field, which GitHub now rejects, so it always
+          # renders "Unexpected error". Re-enable if lowlighter/metrics ships a fix.
+          plugin_achievements: no
           plugin_achievements_display: compact
           plugin_achievements_secrets: no
           plugin_achievements_threshold: C

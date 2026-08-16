@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Klenn Phimna - Developer and Creator">
-  <title>Klenn Phimna — Developer &amp; Creator</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Klenn Pahimna - Developer and Creator">
+  <title>Klenn Pahimna — Developer &amp; Creator</title>
 
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -118,7 +118,7 @@
   <text class="bracket" x="42" y="272" font-family="'Fira Code','Consolas',monospace" font-size="26" fill="#8b5cf6" opacity="0.55">&lt;/&gt;</text>
 
   <!-- Name with animated gradient -->
-  <text x="60" y="148" font-family="'Segoe UI','Trebuchet MS',Arial,sans-serif" font-size="74" font-weight="800" fill="url(#nameGrad)">Klenn Phimna</text>
+  <text x="60" y="148" font-family="'Segoe UI','Trebuchet MS',Arial,sans-serif" font-size="74" font-weight="800" fill="url(#nameGrad)">Klenn Pahimna</text>
 
   <!-- Role with blinking cursor -->
   <text x="62" y="205" font-family="'Segoe UI','Trebuchet MS',Arial,sans-serif" font-size="30" font-weight="600" fill="#e6edf3" opacity="0.95">Developer &amp; Creator</text>

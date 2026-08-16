@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img" aria-label="Footer sign-off card">
-  <title>Made with love by Klenn Phimna</title>
+  <title>Made with love by Klenn Pahimna</title>
 
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -68,7 +68,7 @@
   <text x="428" y="52" font-family="'Segoe UI','Trebuchet MS',Arial,sans-serif" font-size="20" fill="#e6edf3" opacity="0.9">by</text>
 
   <!-- Name with animated gradient -->
-  <text x="470" y="52" font-family="'Segoe UI','Trebuchet MS',Arial,sans-serif" font-size="20" font-weight="700" fill="url(#nameGrad)">Klenn Phimna</text>
+  <text x="470" y="52" font-family="'Segoe UI','Trebuchet MS',Arial,sans-serif" font-size="20" font-weight="700" fill="url(#nameGrad)">Klenn Pahimna</text>
 
   <!-- Tagline -->
   <text x="450" y="92" font-family="'Segoe UI','Trebuchet MS',Arial,sans-serif" font-size="15" fill="#a9b3c0" text-anchor="middle" opacity="0.95">Thanks for stopping by &#8212; see you around! ✨</text>
