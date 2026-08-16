@@ -16,7 +16,7 @@
 <div style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center; margin:25px 0;">
   <img src="https://img.shields.io/github/followers/sanguiris?style=for-the-badge&label=Followers&logo=github&color=F75C7E" alt="GitHub Followers">
   <img src="https://img.shields.io/github/stars/sanguiris?style=for-the-badge&label=Stars&logo=github&color=1F6FEB" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/commits-since/sanguiris/sanguiris/latest?style=for-the-badge&label=Recent+Commits&logo=git&color=3FB950" alt="Recent Commits">
+  <img src="https://img.shields.io/github/last-commit/sanguiris/sanguiris?style=for-the-badge&label=Last%20Commit&logo=git&color=3FB950" alt="Last GitHub Commit">
 </div>
 
 </div>
@@ -74,7 +74,7 @@
 ## 📊 GitHub Activity Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sanguiris/sanguiris/main/github-metrics.svg" alt="GitHub Activity Metrics" style="max-width: 95%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border-radius: 10px;">
+  <img src="./github-metrics.svg" alt="GitHub Activity Metrics" style="max-width: 95%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border-radius: 10px;">
 </div>
 
 <div align="center" style="margin: 35px 0;">
