@@ -35,6 +35,7 @@ jobs:
           user: sanguiris
           template: classic
           base: header, activity, community, repositories, metadata
+          config_order: base.header, isocalendar, languages, habits, repositories, achievements, wakatime, base.activity+community, base.repositories, base.metadata
           config_timezone: Asia/Manila
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
