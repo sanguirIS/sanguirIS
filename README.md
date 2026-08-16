@@ -59,58 +59,10 @@
   <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
 </div>
 
-## 🔗 My Web Projects
+## 📊 GitHub Stats
 
-<div align="left">
-  <a href="https://sanguiris.github.io/Pahimna/HOME.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdqOGhyNmcxZHoyY2djOHJybWV3eHpubmRqOXduNnljNHZwenhsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dxIMQ7WjycKXbmzc9A/giphy.gif" width="55" height="55" alt="Home">
-    
-  <a href="https://sanguiris.github.io/Pahimna/info.html" target="_blank" rel="noopener noreferrer">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZpNHJ4eWZtZndkZXhyYTc1aWI2Zmp5ZG92N2FxaHRmZmR0Nmw2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ftr4VZuG7KPR2D5Mz2/giphy.gif" width="55" height="55" alt="Portfolio">
-    <p>
-  </a>
-</div>
-
-<div align="center" style="margin: 30px 0;">
-  <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
-</div>
-
-## 🤝 Connect with me:
-
-<div style="display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; align-items: center; padding: 10px;">
-
-  <a href="https://codepen.io/sanguiris" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" style="height: 40px; width: 40px;">
-  </a>
-
-  <a href="https://dev.to/sanguiris" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" style="height: 40px; width: 40px;">
-  </a>
-
-  <a href="https://twitter.com/KPahimna" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" style="height: 40px; width: 40px;">
-  </a>
-
-  <a href="https://www.linkedin.com/in/djkam42pahimna" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="height: 40px; width: 40px;">
-  </a>
-
-  <a href="https://stackoverflow.com/users/21699471/klenn-pahimna" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" style="height: 40px; width: 40px;">
-  </a>
-
-  <a href="https://www.youtube.com/@DEVKLENN" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" style="height: 40px; width: 40px;">
-  </a>
-
-  <a href="https://www.hackerrank.com/djkam42pahimna" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" style="height: 40px; width: 40px;">
-  </a>
-
-  <a href="https://www.tiktok.com/@com4_4ksec" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/2840/tiktok-logo-512.png" alt="TikTok" style="height: 40px; width: 40px; border-radius: 8px;">
-  </a>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sanguiris/sanguiris/main/github-metrics.svg" alt="GitHub Metrics" style="max-width: 100%; height: auto;">
 </div>
 
 <div align="center" style="margin: 30px 0;">
@@ -179,11 +131,58 @@
   <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
 </div>
 
-## 📊 GitHub Stats
+## 🔗 My Web Projects
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
-  <img src="https://raw.githubusercontent.com/sanguiris/sanguiris/main/github-metrics.svg" alt="GitHub Metrics" style="max-width: 100%; height: auto;">
-  <img src="https://raw.githubusercontent.com/sanguiris/sanguiris/main/metrics.terminal.svg" alt="GitHub Metrics Terminal" style="max-width: 100%; height: auto;">
+<div align="left">
+  <a href="https://sanguiris.github.io/Pahimna/HOME.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdqOGhyNmcxZHoyY2djOHJybWV3eHpubmRqOXduNnljNHZwenhsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dxIMQ7WjycKXbmzc9A/giphy.gif" width="55" height="55" alt="Home">
+    
+  <a href="https://sanguiris.github.io/Pahimna/info.html" target="_blank" rel="noopener noreferrer">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZpNHJ4eWZtZndkZXhyYTc1aWI2Zmp5ZG92N2FxaHRmZmR0Nmw2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ftr4VZuG7KPR2D5Mz2/giphy.gif" width="55" height="55" alt="Portfolio">
+    <p>
+  </a>
+</div>
+
+<div align="center" style="margin: 30px 0;">
+  <img src="assets/divider.svg" alt="Animated Divider" style="max-width: 100%; height: auto;">
+</div>
+
+## 🤝 Connect with me:
+
+<div style="display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; align-items: center; padding: 10px;">
+
+  <a href="https://codepen.io/sanguiris" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" style="height: 40px; width: 40px;">
+  </a>
+
+  <a href="https://dev.to/sanguiris" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" style="height: 40px; width: 40px;">
+  </a>
+
+  <a href="https://twitter.com/KPahimna" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" style="height: 40px; width: 40px;">
+  </a>
+
+  <a href="https://www.linkedin.com/in/djkam42pahimna" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="height: 40px; width: 40px;">
+  </a>
+
+  <a href="https://stackoverflow.com/users/21699471/klenn-pahimna" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" style="height: 40px; width: 40px;">
+  </a>
+
+  <a href="https://www.youtube.com/@DEVKLENN" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" style="height: 40px; width: 40px;">
+  </a>
+
+  <a href="https://www.hackerrank.com/djkam42pahimna" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" style="height: 40px; width: 40px;">
+  </a>
+
+  <a href="https://www.tiktok.com/@com4_4ksec" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/2840/tiktok-logo-512.png" alt="TikTok" style="height: 40px; width: 40px; border-radius: 8px;">
+  </a>
+
 </div>
 
 <div align="center" style="margin: 30px 0;">
