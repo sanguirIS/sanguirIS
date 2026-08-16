@@ -29,9 +29,6 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; padding: 10px;">
 
-<img align="right" width="130" src="https://github.com/user-attachments/assets/452443cf-8869-449b-929a-ddc526219ba0" alt="Profile Picture" style="border-radius: 5px;">
-</p>
-
   <div style="flex: 1 1 320px; min-width: 260px; max-width: 100%;">
     <p style="font-size: 1rem; line-height: 1.7; margin: 12px 0;">
       <strong>🌱 I'm currently diving deep into:</strong><br>
@@ -51,6 +48,8 @@
   </div>
 
   <div style="flex: 0 0 auto; display: flex; flex-direction: column; gap: 12px; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/452443cf-8869-449b-929a-ddc526219ba0" width="130" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #F75C7E;">
+    <img src="assets/hello.gif" width="110" alt="Hello Anime Girl" style="border-radius: 12px;">
   </div>
 
 </div>
