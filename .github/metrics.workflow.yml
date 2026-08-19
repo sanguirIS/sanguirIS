@@ -62,6 +62,22 @@ jobs:
           wakatime=no
           wakatime_days=7
 
+          # ── GitHub: what kind of token are we actually holding? ─────────────
+          # Classic PATs echo their scopes back in `x-oauth-scopes`. Fine-grained
+          # PATs and App installation tokens do not send that header at all, and
+          # both are repository-scoped, which is exactly what breaks languages.
+          scopes=$(curl -sS -o /dev/null -D - -H "Authorization: bearer $METRICS_TOKEN" \
+            https://api.github.com/rate_limit 2>/dev/null \
+            | tr -d '\r' | grep -i '^x-oauth-scopes:' | cut -d: -f2- | sed 's/^ *//')
+          if [ -n "$scopes" ]; then
+            token_kind="classic PAT (scopes: $scopes)"
+          elif [ "$HAS_PAT" = "true" ]; then
+            token_kind="fine-grained PAT (no classic scopes reported) - THIS CANNOT WORK, replace GH_PAT with a CLASSIC token"
+          else
+            token_kind="GITHUB_TOKEN installation token (no GH_PAT secret set)"
+          fi
+          echo "Token in use: $token_kind"
+
           # ── GitHub: can this token read every repository's metadata? ────────
           query='query { user(login: "'"$METRICS_USER"'") { repositories(first: 100, isFork: false, ownerAffiliations: [OWNER], orderBy: {field: UPDATED_AT, direction: DESC}) { nodes { name stargazers { totalCount } watchers { totalCount } deployments { totalCount } environments { totalCount } languages(first: 8) { edges { size node { name } } } } } } }'
           payload=$(jq -n --arg q "$query" '{query: $q}')
@@ -72,7 +88,7 @@ jobs:
 
           if [ "$(jq 'has("errors")' <<<"$response" 2>/dev/null || echo true)" = "true" ]; then
             reason=$(jq -r '[.errors[]?.message] | unique | join("; ")' <<<"$response" 2>/dev/null || echo "no valid response")
-            echo "::warning title=Languages disabled::The GitHub token cannot read all repositories (${reason:-unknown error}). Create a CLASSIC Personal Access Token with scopes read:user, read:org, repo and save it as the GH_PAT secret, then re-run this workflow."
+            echo "::warning title=Languages disabled::The GitHub token cannot read all repositories (${reason:-unknown error}). Token in use: ${token_kind}. Fix: create a CLASSIC Personal Access Token (Settings > Developer settings > Personal access tokens > Tokens (classic)) with scopes read:user, read:org, repo and save it as the GH_PAT secret. Fine-grained tokens are repository-scoped and will keep failing here."
           elif [ "$(jq '[.data.user.repositories.nodes[]? | .languages.edges[]?] | length' <<<"$response" 2>/dev/null || echo 0)" -gt 0 ]; then
             languages=yes
             echo "Languages: enabled ($(jq '[.data.user.repositories.nodes[]?.languages.edges[]?.node.name] | unique | length' <<<"$response" 2>/dev/null || echo 0) unique languages found)"
