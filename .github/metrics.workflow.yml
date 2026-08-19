@@ -1,0 +1,282 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
+
+on:
+  # Schedule updates (every 3 hours)
+  schedule: [{cron: "0 */3 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: metrics-update
+      cancel-in-progress: true
+    steps:
+      - name: Cache dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache
+          key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
+
+      # ────────────────────────────────────────────────────────────────────────
+      # 🔎 Credential probe
+      #
+      # Every section below is only enabled when the credentials it needs are
+      # actually usable, so the card never renders "0 Languages" or an
+      # "API error: 401" box again.
+      #
+      # Why this is needed for languages:
+      #   metrics fetches every repository through one GraphQL query that also
+      #   asks for `stargazers`, `watchers`, `deployments` and `environments`.
+      #   The default `GITHUB_TOKEN` is a GitHub App installation token scoped
+      #   to THIS repository only, so GitHub answers those fields with
+      #   `FORBIDDEN: Resource not accessible by integration` for every OTHER
+      #   repository. Octokit throws on any GraphQL error, metrics catches it,
+      #   halves the batch, and exits the pagination loop with 0 repositories
+      #   -> the languages plugin then has nothing to analyse and prints
+      #   "0 Languages" with an empty "Most used languages" bar.
+      #
+      #   The only fix is a Personal Access Token (CLASSIC, not fine-grained -
+      #   fine-grained tokens are repository-scoped and hit the exact same
+      #   FORBIDDEN wall) with scopes: read:user, read:org, repo.
+      #   Add it under Settings -> Secrets and variables -> Actions as GH_PAT.
+      # ────────────────────────────────────────────────────────────────────────
+      - name: Probe credentials
+        id: probe
+        shell: bash
+        env:
+          METRICS_USER: sanguiris
+          METRICS_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          HAS_PAT: ${{ secrets.GH_PAT != '' }}
+          WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
+        run: |
+          set -uo pipefail
+
+          languages=no
+          traffic=no
+          wakatime=no
+          wakatime_days=7
+
+          # ── GitHub: can this token read every repository's metadata? ────────
+          query='query { user(login: "'"$METRICS_USER"'") { repositories(first: 100, isFork: false, ownerAffiliations: [OWNER], orderBy: {field: UPDATED_AT, direction: DESC}) { nodes { name stargazers { totalCount } watchers { totalCount } deployments { totalCount } environments { totalCount } languages(first: 8) { edges { size node { name } } } } } } }'
+          payload=$(jq -n --arg q "$query" '{query: $q}')
+          response=$(curl -sS -X POST \
+            -H "Authorization: bearer $METRICS_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "$payload" https://api.github.com/graphql 2>/dev/null || echo '{}')
+
+          if [ "$(jq 'has("errors")' <<<"$response")" = "true" ]; then
+            reason=$(jq -r '[.errors[].message] | unique | join("; ")' <<<"$response")
+            echo "::warning title=Languages disabled::The GitHub token cannot read all repositories ($reason). Create a CLASSIC Personal Access Token with scopes read:user, read:org, repo and save it as the GH_PAT secret, then re-run this workflow."
+          elif [ "$(jq '[.data.user.repositories.nodes[]? | .languages.edges[]?] | length' <<<"$response")" -gt 0 ]; then
+            languages=yes
+            echo "Languages: enabled ($(jq '[.data.user.repositories.nodes[]?.languages.edges[]?.node.name] | unique | length' <<<"$response") unique languages found)"
+          else
+            echo "::warning title=Languages disabled::No language data was returned for $METRICS_USER."
+          fi
+
+          # ── GitHub: does the token carry the `repo` scope needed by traffic? ─
+          if [ "$languages" = "yes" ] && [ "$HAS_PAT" = "true" ]; then
+            code=$(curl -sS -o /dev/null -w '%{http_code}' \
+              -H "Authorization: bearer $METRICS_TOKEN" \
+              "https://api.github.com/repos/${GITHUB_REPOSITORY}/traffic/views" 2>/dev/null || echo 000)
+            if [ "$code" = "200" ]; then
+              traffic=yes
+              echo "Traffic: enabled"
+            else
+              echo "Traffic: disabled (HTTP $code, token is missing the 'repo' scope)"
+            fi
+          fi
+
+          # ── WakaTime: is the key valid AND does it hold data for a range? ────
+          if [ -n "${WAKATIME_TOKEN:-}" ]; then
+            for range in last_year:365 last_6_months:180 last_30_days:30 last_7_days:7; do
+              api=${range%%:*}
+              days=${range##*:}
+              body=$(curl -sS -G --data-urlencode "api_key=${WAKATIME_TOKEN}" \
+                -w $'\n%{http_code}' \
+                "https://wakatime.com/api/v1/users/current/stats/${api}" 2>/dev/null || printf '\n000')
+              code=$(tail -n1 <<<"$body")
+              json=$(sed '$d' <<<"$body")
+              if [ "$code" = "200" ] && [ "$(jq '[.data.languages[]?, .data.projects[]?, .data.editors[]?] | length' <<<"$json" 2>/dev/null || echo 0)" -gt 0 ]; then
+                wakatime=yes
+                wakatime_days=$days
+                echo "WakaTime: enabled (range $api)"
+                break
+              fi
+              echo "WakaTime: $api unavailable (HTTP $code)"
+            done
+            if [ "$wakatime" = "no" ]; then
+              echo "::warning title=WakaTime disabled::WAKATIME_TOKEN was rejected or has no recorded activity. Copy a fresh Secret API Key from https://wakatime.com/settings/api-key into the WAKATIME_TOKEN secret."
+            fi
+          else
+            echo "::notice title=WakaTime disabled::WAKATIME_TOKEN secret is not set."
+          fi
+
+          {
+            echo "languages=$languages"
+            echo "traffic=$traffic"
+            echo "wakatime=$wakatime"
+            echo "wakatime_days=$wakatime_days"
+          } >> "$GITHUB_OUTPUT"
+
+      # 📗 Modern infographic card
+      - uses: lowlighter/metrics@latest
+        with:
+          # Prefer a CLASSIC PAT (read:user, read:org, repo) stored as GH_PAT.
+          # GITHUB_TOKEN works as a fallback but cannot read other repositories,
+          # which is why the probe step above turns some sections off.
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          filename: github-metrics.svg
+
+          # Content
+          user: sanguiris
+          template: classic
+          base: header, activity, community, metadata
+          config_order: base.header, isocalendar, languages, wakatime, base.activity+community, base.metadata
+          config_timezone: Asia/Manila
+          config_animations: yes
+          config_padding: 0, 10 + 6%
+
+          # 📅 Contributions calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # 💬 Languages — auto-disabled when the token cannot read the repos
+          plugin_languages: ${{ steps.probe.outputs.languages }}
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 6
+          plugin_languages_other: yes
+          plugin_languages_threshold: 1%
+          plugin_languages_colors: github
+
+          # ⏳ WakaTime — auto-disabled when the API key is missing or invalid
+          plugin_wakatime: ${{ steps.probe.outputs.wakatime }}
+          plugin_wakatime_sections: time, projects, languages, editors
+          plugin_wakatime_days: ${{ steps.probe.outputs.wakatime_days }}
+          plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, json
+          plugin_wakatime_limit: 4
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+
+          # 📊 Traffic — needs the `repo` scope, auto-disabled otherwise
+          plugin_traffic: ${{ steps.probe.outputs.traffic }}
+
+          # Disabled: upstream bug — habits plugin throws a generic error against
+          # current GitHub API data (events no longer include payload.commits).
+          # See lowlighter/metrics discussion #1773. Re-enable if upstream fixes it.
+          plugin_habits: no
+          # Disabled: upstream bug — the achievements plugin queries the deprecated
+          # Projects (classic) GraphQL field, which GitHub now rejects, so it always
+          # renders "Unexpected error". Re-enable if lowlighter/metrics ships a fix.
+          plugin_achievements: no
+          plugin_repositories: no
+
+          # ────────────────────────────────────────────────────────────────────
+          # 🎨 Modern dark card styling
+          # ────────────────────────────────────────────────────────────────────
+          extras_css: |
+            /* Canvas ------------------------------------------------------- */
+            svg {
+              font-family: "Segoe UI", Inter, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif !important;
+              font-size: 13px !important;
+              color: #c9d1d9 !important;
+            }
+            .items-wrapper {
+              box-sizing: border-box !important;
+              padding: 18px 16px 12px !important;
+              border: 1px solid #26303d !important;
+              border-radius: 16px !important;
+              background:
+                radial-gradient(115% 80% at 0% 0%, rgba(247, 92, 126, .13) 0%, rgba(247, 92, 126, 0) 55%),
+                radial-gradient(115% 80% at 100% 0%, rgba(31, 111, 235, .16) 0%, rgba(31, 111, 235, 0) 55%),
+                linear-gradient(180deg, #0d1117 0%, #10151d 55%, #0d1117 100%) !important;
+            }
+
+            /* Section rhythm ----------------------------------------------- */
+            .items-wrapper > section:not(:first-of-type):not(.column) {
+              border-top: 1px solid rgba(240, 246, 252, .07) !important;
+              margin-top: 12px !important;
+              padding-top: 8px !important;
+            }
+
+            /* Typography ---------------------------------------------------- */
+            h1 {
+              color: #f0f6fc !important;
+              font-size: 20px !important;
+              font-weight: 700 !important;
+              letter-spacing: .3px !important;
+              margin: 0 0 10px !important;
+            }
+            h2 {
+              color: #f0f6fc !important;
+              font-size: 14px !important;
+              font-weight: 600 !important;
+              letter-spacing: .2px !important;
+              margin: 10px 0 6px !important;
+            }
+            h2 svg { fill: #f75c7e !important; }
+            h3 {
+              color: #8b949e !important;
+              font-size: 11px !important;
+              font-weight: 600 !important;
+              text-transform: uppercase !important;
+              letter-spacing: .1em !important;
+              margin: 10px 0 4px !important;
+            }
+            h3 svg { fill: #6e7681 !important; }
+
+            /* Avatar -------------------------------------------------------- */
+            .avatar {
+              width: 26px !important;
+              height: 26px !important;
+              padding: 1px !important;
+              background: #0d1117 !important;
+              border: 2px solid #f75c7e !important;
+              margin-right: 10px !important;
+            }
+
+            /* Fields -------------------------------------------------------- */
+            .field {
+              color: #c9d1d9 !important;
+              margin-bottom: 3px !important;
+            }
+            .field svg { fill: #7d8590 !important; }
+            .field.hire, .field.hire svg { color: #3fb950 !important; fill: #3fb950 !important; }
+            .field.error, .field.error svg { color: #ff7b72 !important; fill: #ff7b72 !important; }
+            .field.warning, .field.warning svg { color: #d29922 !important; fill: #d29922 !important; }
+            small, .h-details { color: #7d8590 !important; }
+
+            /* Language rows -------------------------------------------------- */
+            .field.language.details {
+              padding: 3px 8px !important;
+              margin: 2px 4px !important;
+              border-radius: 8px !important;
+              background: rgba(240, 246, 252, .04) !important;
+            }
+            .field.language.details small { color: #8b949e !important; }
+            svg.bar { margin: 6px 0 8px !important; }
+
+            /* Contribution colours remapped to the GitHub dark palette ------- */
+            [fill="#ebedf0"] { fill: #1a212b !important; }
+            [fill="#9be9a8"] { fill: #0e4429 !important; }
+            [fill="#40c463"] { fill: #006d32 !important; }
+            [fill="#30a14e"] { fill: #26a641 !important; }
+            [fill="#216e39"] { fill: #39d353 !important; }
+            .calendar .day { outline: 1px solid rgba(240, 246, 252, .05) !important; }
+
+            /* Footer --------------------------------------------------------- */
+            footer {
+              margin-top: 14px !important;
+              padding-top: 8px !important;
+              border-top: 1px solid rgba(240, 246, 252, .06) !important;
+              color: #636c76 !important;
+              font-size: 9.5px !important;
+              font-style: normal !important;
+              letter-spacing: .2px !important;
+            }
