@@ -1,0 +1,61 @@
+name: Metrics
+
+# Renders github-metrics.svg from live GitHub + WakaTime data.
+# The card is produced by scripts/generate-metrics.mjs (no third-party action),
+# so nothing breaks when an upstream project goes unmaintained.
+
+on:
+  # Refresh every 6 hours (footer of the card says "refreshed every 6h")
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/metrics.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metrics-update
+  cancel-in-progress: true
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Render github-metrics.svg
+        env:
+          # A classic PAT with read:user (+ repo for private stats) gives richer
+          # numbers; the built-in token is enough for public data.
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          # Optional — without it the third card falls back to GitHub data.
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY || secrets.WAKATIME_TOKEN }}
+          WAKATIME_RANGE: last_7_days
+          METRICS_USER: sanguirIS
+          METRICS_TZ: Asia/Manila
+          METRICS_OUT: github-metrics.svg
+        run: node scripts/generate-metrics.mjs
+
+      - name: Commit updated card
+        run: |
+          set -euo pipefail
+          if [ -z "$(git status --porcelain github-metrics.svg)" ]; then
+            echo "No changes — skipping commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg
+          git commit -m "chore(metrics): refresh github-metrics.svg [skip ci]"
+          git push
