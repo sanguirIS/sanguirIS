@@ -35,7 +35,7 @@ jobs:
           filename: github-metrics.svg
           # Options
           user: sanguiris
-          template: terminal
+          template: classic
           base: header, activity, community, metadata
           config_order: base.header, isocalendar, languages, habits, achievements, base.activity+community, base.metadata
           config_timezone: Asia/Manila
