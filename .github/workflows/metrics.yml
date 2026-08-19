@@ -37,11 +37,11 @@ jobs:
           user: sanguiris
           template: classic
           base: header, activity, community, metadata
-          config_order: base.header, isocalendar, languages, habits, achievements, base.activity+community, base.metadata
+          config_order: base.header, isocalendar, habits, achievements, base.activity+community, base.metadata
           config_timezone: Asia/Manila
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_languages: yes
+          plugin_languages: no
           # Disabled: upstream bug — habits plugin throws a generic error against
           # current GitHub API data (events no longer include payload.commits).
           # See lowlighter/metrics discussion #1773. Re-enable if upstream fixes it.
@@ -60,8 +60,4 @@ jobs:
           plugin_achievements_threshold: C
           plugin_achievements_limit: 6
           plugin_repositories: no
-          plugin_wakatime: yes
-          plugin_wakatime_sections: projects, languages, editors
-          plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON
-          plugin_wakatime_days: 365
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime: no
