@@ -70,12 +70,12 @@ jobs:
             -H "Content-Type: application/json" \
             -d "$payload" https://api.github.com/graphql 2>/dev/null || echo '{}')
 
-          if [ "$(jq 'has("errors")' <<<"$response")" = "true" ]; then
-            reason=$(jq -r '[.errors[].message] | unique | join("; ")' <<<"$response")
-            echo "::warning title=Languages disabled::The GitHub token cannot read all repositories ($reason). Create a CLASSIC Personal Access Token with scopes read:user, read:org, repo and save it as the GH_PAT secret, then re-run this workflow."
-          elif [ "$(jq '[.data.user.repositories.nodes[]? | .languages.edges[]?] | length' <<<"$response")" -gt 0 ]; then
+          if [ "$(jq 'has("errors")' <<<"$response" 2>/dev/null || echo true)" = "true" ]; then
+            reason=$(jq -r '[.errors[]?.message] | unique | join("; ")' <<<"$response" 2>/dev/null || echo "no valid response")
+            echo "::warning title=Languages disabled::The GitHub token cannot read all repositories (${reason:-unknown error}). Create a CLASSIC Personal Access Token with scopes read:user, read:org, repo and save it as the GH_PAT secret, then re-run this workflow."
+          elif [ "$(jq '[.data.user.repositories.nodes[]? | .languages.edges[]?] | length' <<<"$response" 2>/dev/null || echo 0)" -gt 0 ]; then
             languages=yes
-            echo "Languages: enabled ($(jq '[.data.user.repositories.nodes[]?.languages.edges[]?.node.name] | unique | length' <<<"$response") unique languages found)"
+            echo "Languages: enabled ($(jq '[.data.user.repositories.nodes[]?.languages.edges[]?.node.name] | unique | length' <<<"$response" 2>/dev/null || echo 0) unique languages found)"
           else
             echo "::warning title=Languages disabled::No language data was returned for $METRICS_USER."
           fi
