@@ -16,7 +16,10 @@
   <img src="https://github-trophies.vercel.app/?username=sanguiris&theme=radical&no-frame=false&margin-w=10" alt="GitHub Trophies" style="max-width: 100%; height: auto; margin:20px 0;">
 </div>
 
-## 🚀 About Me
+<div align="center" style="margin: 35px 0;">
+  <img src="assets/divider.svg" alt="Section Divider" style="max-width: 100%; height: auto;">
+</div>
+<br>
 <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center; align-items: center; padding: 20px; max-width:1000px; margin:0 auto;">
     <div style="margin-top:25px; display:flex; gap:15px; flex-wrap:wrap;">
       <a href="mailto:klenn31is18pahimna@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -27,7 +30,7 @@
 <div style="max-width:900px; margin:0 auto;">
   <div style="display: flex; flex-wrap:wrap; gap:30px; justify-content:center; align-items:center; padding:15px;">
     <a href="https://sanguiris.github.io/Pahimna/HOME.html" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#ffffff; background:#161b22; padding:20px 30px; border-radius:12px; border:1px solid #30363d; display:flex; align-items:center; gap:15px; min-width:280px; transition:all 0.3s;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdqOGhyNmcxZHoyY2djOHJybWV3eHpubmRqOXduNnljNHZwenhsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dxIMQ7WjycKXbmzc9A/giphy.gif" width="50" height="50" alt="Home Project Icon"> <h4 style="margin:0 0 5px 0; font-size:1.1rem;">Main Website</h4>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdqOGhyNmcxZHoyY2djOHJybWV3eHpubmRqOXduNnljNHZwenhsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dxIMQ7WjycKXbmzc9A/giphy.gif" width="50" height="50" alt="Home Project Icon"> <h4 style="margin:0 0 5px 0; font-size:1.1rem;">Website</h4>
     <a href="https://sanguiris.github.io/Pahimna/info.html" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#ffffff; background:#161b22; padding:20px 30px; border-radius:12px; border:1px solid #30363d; display:flex; align-items:center; gap:15px; min-width:280px; transition:all 0.3s;">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZpNHJ4eWZtZndkZXhyYTc1aWI2Zmp5ZG92N2FxaHRmZmR0Nmw2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ftr4VZuG7KPR2D5Mz2/giphy.gif" width="50" height="50" alt="Portfolio Project Icon"> <h4 style="margin:0 0 5px 0; font-size:1.1rem;">Portfolio</h4>
 <div style="max-width:900px; margin:0 auto;">
@@ -73,8 +76,7 @@
   <img src="assets/divider.svg" alt="Section Divider" style="max-width: 100%; height: auto;">
 </div>
 <br>
-<!-- 🌸 Professional Footer -->
 <div align="center">
   <img src="assets/footer.svg" alt="Portfolio Footer" style="max-width: 100%; height: auto;">
-  <p style="font-size:0.9rem; color:#8b949e; margin-top:20px;">© 2026 Klenn Pahimna. All rights reserved.</p>
+  <p style="font-size:0.9rem; color:#8b949e; margin-top:20px;">© 2026 DEVKLENN. All rights reserved.</p>
 </div>
