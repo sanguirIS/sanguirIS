@@ -63,8 +63,8 @@ jobs:
           plugin_achievements_limit: 6
           plugin_repositories: yes
           plugin_repositories_featured: sanguirIS/WinUtilKLENN, sanguirIS/ComputerPrograming2, sanguirIS/ComputerProgramming1, sanguirIS/Data-Structures-and-Algorithms, sanguirIS/Ethical_Exploration, sanguirIS/Wifi-JailUP
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors-graphs, os-graphs
-          plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON
-          plugin_wakatime_days: 365
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime: no
+          # plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors-graphs, os-graphs
+          # plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON
+          # plugin_wakatime_days: 365
+          # plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
