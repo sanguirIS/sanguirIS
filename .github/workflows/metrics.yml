@@ -38,12 +38,11 @@ jobs:
           user: sanguiris
           template: classic
           base: header, activity, community, repositories, metadata
-          config_order: base.header, isocalendar, languages, habits, repositories, achievements, wakatime, base.activity+community, base.repositories, base.metadata
+          config_order: base.header, isocalendar, habits, repositories, achievements, base.activity+community, base.repositories, base.metadata
           config_timezone: Asia/Manila
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_languages_details: percentage
+          plugin_languages: no
           # Disabled: upstream bug — habits plugin throws a generic error against
           # current GitHub API data (events no longer include payload.commits).
           # See lowlighter/metrics discussion #1773. Re-enable if upstream fixes it.
