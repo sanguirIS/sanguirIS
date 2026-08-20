@@ -1,25 +1,15 @@
 <div align="center">
-<!-- 🌟 Custom Professional Banner -->
-<img src="assets/banner.svg" alt="Klenn Pahimna - Full-Stack Developer & Digital Creator" style="width: 100%; height: auto;">
-<br>
-<!-- ⌨️ Animated Typing Text -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Continuous+Learner+%7C+Tech+Enthusiast;Python,+PHP,+SQL,+C%23,+JavaScript;Let%27s+build+something+impactful%21" alt="Typing Animation" style="max-width: 100%; height: auto; margin-top:15px;">
-<!-- 🔝 Quick Stats Badges -->
 <div style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center; margin:25px 0;">
   <img src="https://img.shields.io/github/followers/sanguiris?style=for-the-badge&label=Followers&logo=github&color=F75C7E" alt="GitHub Followers">
   <img src="https://img.shields.io/github/stars/sanguiris?style=for-the-badge&label=Stars&logo=github&color=1F6FEB" alt="GitHub Stars">
   <img src="https://img.shields.io/github/last-commit/sanguiris/sanguiris?style=for-the-badge&label=Last%20Commit&logo=git&color=3FB950" alt="Last GitHub Commit">
 </div>
-<br>
-<!-- 🏆 GitHub Trophies -->
 <div align="center">
+    𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂 𝙎𝞓𝞣𝙐𝞒𝞗 𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂
   <img src="https://github-trophies.vercel.app/?username=sanguiris&theme=radical&no-frame=false&margin-w=10" alt="GitHub Trophies" style="max-width: 100%; height: auto; margin:20px 0;">
 </div>
 
-<div align="center" style="margin: 35px 0;">
-  <img src="assets/divider.svg" alt="Section Divider" style="max-width: 100%; height: auto;">
-</div>
-<br>
 <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center; align-items: center; padding: 20px; max-width:1000px; margin:0 auto;">
     <div style="margin-top:25px; display:flex; gap:15px; flex-wrap:wrap;">
       <a href="mailto:klenn31is18pahimna@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -71,12 +61,6 @@
       <img src="https://ytcards.demolab.com/?id=lfFQEIIXpGc&title=Fix+Partitions+on+SSD+%26+USB+%7C+Windows+10+%26+11+(Tagalog)+2025&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=280&border_radius=8&duration=425" alt="Fix Partitions on SSD and USB (Windows 10/11, Tagalog)" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
     </a>
   </div>
-
-<div align="center" style="margin: 35px 0;">
-  <img src="assets/divider.svg" alt="Section Divider" style="max-width: 100%; height: auto;">
-</div>
-<br>
 <div align="center">
-  <img src="assets/footer.svg" alt="Portfolio Footer" style="max-width: 100%; height: auto;">
   <p style="font-size:0.9rem; color:#8b949e; margin-top:20px;">© 2026 DEVKLENN. All rights reserved.</p>
 </div>
