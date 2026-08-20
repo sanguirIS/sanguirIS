@@ -10,6 +10,27 @@
   <img src="./trophies.svg" alt="GitHub Trophies (Dracula)" style="max-width: 100%; height: auto; margin:20px 0;">
 </div>
 
+<div align="center">
+  <h3 style="color:#FF79C6; margin:10px 0 18px 0; font-size:1.4rem;">Skills</h3>
+  <p style="color:#BD93F9; margin:0 0 12px 0; font-size:0.95rem;">Languages</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=50FA7B" alt="Python">
+    <img src="https://img.shields.io/badge/PHP-282A36?style=for-the-badge&logo=php&logoColor=BD93F9" alt="PHP">
+    <img src="https://img.shields.io/badge/SQL-282A36?style=for-the-badge&logo=mysql&logoColor=8BE9FD" alt="SQL">
+    <img src="https://img.shields.io/badge/C%23-282A36?style=for-the-badge&logo=csharp&logoColor=FF79C6" alt="C#">
+    <img src="https://img.shields.io/badge/JavaScript-282A36?style=for-the-badge&logo=javascript&logoColor=F1FA8C" alt="JavaScript">
+  </p>
+  <p style="color:#BD93F9; margin:16px 0 12px 0; font-size:0.95rem;">Tools &amp; Platforms</p>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-282A36?style=for-the-badge&logo=html5&logoColor=FF5555" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-282A36?style=for-the-badge&logo=css3&logoColor=8BE9FD" alt="CSS3">
+    <img src="https://img.shields.io/badge/Git-282A36?style=for-the-badge&logo=git&logoColor=FFB86C" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=F8F8F2" alt="GitHub">
+    <img src="https://img.shields.io/badge/MySQL-282A36?style=for-the-badge&logo=mysql&logoColor=50FA7B" alt="MySQL">
+    <img src="https://img.shields.io/badge/Windows-282A36?style=for-the-badge&logo=windows&logoColor=8BE9FD" alt="Windows">
+  </p>
+</div>
+
 <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center; align-items: center; padding: 20px; max-width:1000px; margin:0 auto;">
     <div style="margin-top:25px; display:flex; gap:15px; flex-wrap:wrap;">
       <a href="mailto:klenn31is18pahimna@gmail.com" target="_blank" rel="noopener noreferrer">
