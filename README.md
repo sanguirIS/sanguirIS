@@ -7,7 +7,7 @@
 </div>
 <div align="center">
     𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂 𝙎𝞓𝞣𝙐𝞒𝞗 𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃𝄃𝄂𝄂
-  <img src="https://github-trophies.vercel.app/?username=sanguiris&theme=radical&no-frame=false&margin-w=10" alt="GitHub Trophies" style="max-width: 100%; height: auto; margin:20px 0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanguiris&theme=radical&no-bg=true&no-frame=true&column=-1&margin-w=8&margin-h=8&rank=-C,-B,-?" alt="GitHub Trophies" style="max-width: 100%; height: auto; margin:20px 0;">
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center; align-items: center; padding: 20px; max-width:1000px; margin:0 auto;">
