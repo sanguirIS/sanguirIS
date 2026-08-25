@@ -85,6 +85,8 @@
       <img src="https://ytcards.demolab.com/?id=lfFQEIIXpGc&title=Fix+Partitions+on+SSD+%26+USB+%7C+Windows+10+%26+11+(Tagalog)+2025&lang=en&background_color=%23282a36&title_color=%23ff79c6&stats_color=%23f8f8f2&max_title_lines=2&width=280&border_radius=8&duration=425" alt="Fix Partitions on SSD and USB (Windows 10/11, Tagalog)" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);">
     </a>
   </div>
-<div align="center">
-  <p style="font-size:0.9rem; color:#6272a4; margin-top:20px;">© 2026 DEVKLENN. All rights reserved.</p>
-</div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="sanguirIS's GitHub profile" src="dark_mode.svg" />
+</picture>
