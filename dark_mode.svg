@@ -9,7 +9,33 @@
     <text x="32" y="160"><tspan fill="#ffa657">. Website: </tspan><tspan fill="#484f58">..............</tspan><tspan fill="#c9d1d9"> https://www.figma.com/@djkam404</tspan></text>
     <text x="32" y="180"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#484f58">..........................</tspan><tspan fill="#c9d1d9"> github.com/sanguirIS</tspan></text>
     <text x="32" y="220"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Stats </tspan><tspan fill="#3d444d">───────────────────────────────────────────</tspan></text>
-    <text x="32" y="240"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 9</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 1</tspan></text>
-    <text x="32" y="260"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 265</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 2</tspan></text>
+    <text x="32" y="240"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">...............</tspan><tspan id="repos-num" fill="#79c0ff"> 9</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">...............</tspan><tspan id="stars-num" fill="#79c0ff"> 1</tspan></text>
+    <text x="32" y="260"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">...........</tspan><tspan id="commits-num" fill="#79c0ff"> 265</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan id="followers-num" fill="#79c0ff"> 3</tspan></text>
   </g>
+  <script type="text/ecmascript"><![CDATA[
+    function updateCard() {
+      try {
+        if (typeof fetch !== 'undefined') {
+          fetch('https://api.github.com/users/sanguirIS')
+            .then(function(r){ return r.json(); })
+            .then(function(user){
+              var r = document.getElementById('repos-num');
+              if (r) r.textContent = ' ' + (user.public_repos !== undefined ? user.public_repos : r.textContent.trim());
+              var f = document.getElementById('followers-num');
+              if (f) f.textContent = ' ' + (user.followers !== undefined ? user.followers : f.textContent.trim());
+            });
+          fetch('https://api.github.com/users/sanguirIS/repos?per_page=100')
+            .then(function(r){ return r.json(); })
+            .then(function(repos){
+              var total = repos.reduce(function(s, repo){ return s + (repo.stargazers_count || 0); }, 0);
+              var s = document.getElementById('stars-num');
+              if (s) s.textContent = ' ' + total;
+            });
+        }
+      } catch (e) {}
+    }
+    if (document.readyState === 'complete' || document.readyState === 'interactive') updateCard();
+    else if (window.addEventListener) window.addEventListener('load', updateCard);
+    else if (window.attachEvent) window.attachEvent('onload', updateCard);
+  ]]></script>
 </svg>
