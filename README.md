@@ -45,9 +45,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Continuous+Learner+%7C+Tech+Enthusiast;Python,+PHP,+SQL,+C%23,+JavaScript;Let%27s+build+something+impactful%21" alt="Typing Animation" style="max-width: 100%; height: auto; margin-top:15px;">
 <div style="max-width:900px; margin:0 auto;">
   <div style="display: flex; flex-wrap:wrap; gap:30px; justify-content:center; align-items:center; padding:15px;">
-    <a href="https://sanguiris.github.io/Pahimna/HOME.html" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#ffffff; background:#282a36; padding:20px 30px; border-radius:12px; border:1px solid #44475a; display:flex; align-items:center; gap:15px; min-width:280px; transition:all 0.3s;">
+    <a href="pahimna.vercel.app" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#ffffff; background:#282a36; padding:20px 30px; border-radius:12px; border:1px solid #44475a; display:flex; align-items:center; gap:15px; min-width:280px; transition:all 0.3s;">
       <img src="https://github.com/user-attachments/assets/593b20a4-1e65-4c4d-b453-3f7cea1e2edc" width="50" height="50" alt="Home Project Icon">
-    <a href="https://sanguiris.github.io/Pahimna/info.html" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#ffffff; background:#282a36; padding:20px 30px; border-radius:12px; border:1px solid #44475a; display:flex; align-items:center; gap:15px; min-width:280px; transition:all 0.3s;">
+    <a href="pahimna.vercel.app/info.html" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#ffffff; background:#282a36; padding:20px 30px; border-radius:12px; border:1px solid #44475a; display:flex; align-items:center; gap:15px; min-width:280px; transition:all 0.3s;">
       <img src="https://github.com/user-attachments/assets/cf87c78b-7e4c-4821-8ac7-4f0b62dfa81d" width="50" height="50" alt="Portfolio Project Icon">
 <div style="max-width:900px; margin:0 auto;">
   <div style="display: flex; flex-wrap: wrap; gap:20px; justify-content: center; align-items: center; padding: 15px;">
