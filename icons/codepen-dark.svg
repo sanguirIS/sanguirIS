@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="codepen">
+  <defs>
+    <linearGradient id="gcodependark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f3242"/>
+      <stop offset="1" stop-color="#21232e"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="url(#gcodependark)" stroke="#45485c" stroke-width="1.5"/>
+    <g fill="none" stroke="#f8f8f2" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 9 53 22.5v19L32 55 11 41.5v-19Z"/>
+    <path d="M32 9v13.5M32 55V41.5M11 32h11M53 32H42"/>
+    <path d="M32 22.5 42 32l-10 9.5L22 32Z"/>
+  </g>
+  <circle cx="50" cy="14" r="3" fill="#FFCADC"/>
+</svg>

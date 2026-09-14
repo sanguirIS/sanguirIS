@@ -2,7 +2,7 @@
   <rect x="0.5" y="0.5" width="619" height="291" rx="8" fill="#ffffff" stroke="#d0d7de"/>
   <g font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" font-size="16" xml:space="preserve">
     <text x="32" y="40"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> sanguirIS@github </tspan><tspan fill="#d0d7de">───────────────────────────────────────</tspan></text>
-    <text x="32" y="60"><tspan fill="#953800">. Uptime: </tspan><tspan fill="#8c959f">.....................</tspan><tspan fill="#24292f"> 3 years, 8 months, 0 days</tspan></text>
+    <text x="32" y="60"><tspan fill="#953800">. Uptime: </tspan><tspan fill="#8c959f">....................</tspan><tspan fill="#24292f"> 3 years, 8 months, 20 days</tspan></text>
     <text x="32" y="80"><tspan fill="#953800">. Location: </tspan><tspan fill="#8c959f">................................</tspan><tspan fill="#24292f"> Philippines </tspan></text>
     <text x="32" y="100"><tspan fill="#953800">. Languages: </tspan><tspan fill="#8c959f">..</tspan><tspan fill="#24292f"> Batchfile, Python, Java, HTML, TypeScript</tspan></text>
     <text x="32" y="140"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> Contact </tspan><tspan fill="#d0d7de">────────────────────────────────────────────────</tspan></text>
@@ -10,7 +10,7 @@
     <text x="32" y="180"><tspan fill="#953800">. GitHub: </tspan><tspan fill="#8c959f">..........................</tspan><tspan fill="#24292f"> github.com/sanguirIS</tspan></text>
     <text x="32" y="220"><tspan fill="#d0d7de">─</tspan><tspan fill="#0969da"> GitHub Stats </tspan><tspan fill="#d0d7de">───────────────────────────────────────────</tspan></text>
     <text x="32" y="240"><tspan fill="#953800">. Repos: </tspan><tspan fill="#8c959f">...............</tspan><tspan id="repos-num" fill="#0550ae"> 9</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Stars: </tspan><tspan fill="#8c959f">...............</tspan><tspan id="stars-num" fill="#0550ae"> 1</tspan></text>
-    <text x="32" y="260"><tspan fill="#953800">. Commits: </tspan><tspan fill="#8c959f">...........</tspan><tspan id="commits-num" fill="#0550ae"> 265</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Followers: </tspan><tspan fill="#8c959f">...........</tspan><tspan id="followers-num" fill="#0550ae"> 3</tspan></text>
+    <text x="32" y="260"><tspan fill="#953800">. Commits: </tspan><tspan fill="#8c959f">...........</tspan><tspan id="commits-num" fill="#0550ae"> 552</tspan><tspan fill="#d0d7de"> | </tspan><tspan fill="#953800">. Followers: </tspan><tspan fill="#8c959f">...........</tspan><tspan id="followers-num" fill="#0550ae"> 2</tspan></text>
   </g>
   <script type="text/ecmascript"><![CDATA[
     function updateCard() {
