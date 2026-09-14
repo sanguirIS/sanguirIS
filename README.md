@@ -7,33 +7,41 @@
   <img src="https://img.shields.io/github/last-commit/sanguiris/sanguiris?style=for-the-badge&label=Last%20Commit&logo=git&color=50FA7B" alt="Last GitHub Commit" />
 </div>
 
-<!-- ════════════ ROW 1 · STATS + STREAK (responsive 2-col, wraps on mobile) ════════════ -->
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; align-items:stretch; max-width:1000px; margin:0 auto 20px;">
-  <a href="https://github.com/sanguirIS" style="flex:1 1 460px; max-width:480px; display:block;">
-    <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=sanguirIS&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" style="width:100%; height:auto; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
-  </a>
-  <a href="https://github.com/sanguirIS" style="flex:1 1 460px; max-width:480px; display:block;">
-    <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=sanguirIS&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" style="width:100%; height:auto; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
-  </a>
-</div>
-
-<!-- ════════════ ROW 2 · PINNED REPO + ANNUALIZED CONTRIBUTIONS (full 12-month view) ════════════ -->
-<div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; align-items:stretch; max-width:1000px; margin:0 auto 20px;">
-  <a href="https://github.com/sanguirIS/WinUtilKLENN" style="flex:1 1 460px; max-width:480px; display:block;">
-    <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=sanguirIS&repo=WinUtilKLENN&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="WinUtilKLENN Pinned Repository" style="width:100%; height:auto; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
-  </a>
-  <a href="https://github.com/sanguirIS" style="flex:1 1 460px; max-width:480px; display:block;">
-    <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=SanguirIS&limit=12&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Annualized Repository Contributions" style="width:100%; height:auto; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
-  </a>
-</div>
+<!-- ════════════ STATS · LANDSCAPE BOX (2×2 table — GitHub-safe, renders side-by-side with border) ════════════ -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sanguirIS">
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=sanguirIS&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" width="330" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sanguirIS">
+        <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=sanguirIS&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" width="330" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sanguirIS/WinUtilKLENN">
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=sanguirIS&repo=WinUtilKLENN&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="WinUtilKLENN Pinned Repository" width="330" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sanguirIS">
+        <img src="https://github-repository-contribution-stat-green.vercel.app/api?username=SanguirIS&limit=12&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Annualized Repository Contributions" width="330" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- ════════════ CONTACT · KPAHIMNA GMAIL BADGE (custom icon, small, modern, toggled dark/light) ════════════ -->
-<div style="display:flex; justify-content:center; margin:5px 0 22px;">
-  <a href="mailto:klenn31is18pahimna@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none; display:inline-block;">
+<div align="center">
+  <a href="mailto:klenn31is18pahimna@gmail.com" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="icons/gmail-kpahimna-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="icons/gmail-kpahimna-light.svg" />
-      <img src="icons/gmail-kpahimna-dark.svg" alt="Gmail — KPAHIMNA" style="width:100%; max-width:190px; height:auto; border-radius:14px; box-shadow:0 3px 10px rgba(0,0,0,0.18);" />
+      <img src="icons/gmail-kpahimna-dark.svg" alt="Gmail — KPAHIMNA" width="140" />
     </picture>
   </a>
 </div>
@@ -128,17 +136,21 @@
   </a>
 </div>
 
-<!-- ════════════ YOUTUBE FEATURED (responsive cards) ════════════ -->
-<div style="max-width:900px; margin:0 auto;">
-  <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; align-items:flex-start; padding:10px 15px;">
-    <a href="https://youtu.be/-a6iMUM3caE" target="_blank" rel="noopener noreferrer" style="flex:1 1 280px; max-width:320px; display:block;">
-      <img src="https://ytcards.demolab.com/?id=-a6iMUM3caE&title=Windows+Utility+Created+%7C+by+Christitus+2025&lang=en&background_color=%23282a36&title_color=%23ff79c6&stats_color=%23f8f8f2&max_title_lines=2&width=280&border_radius=8&duration=124" alt="The Ultimate Windows Optimization Utility — Install, Configure, and Automate in Minutes" style="width:100%; height:auto; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
-    </a>
-    <a href="https://youtu.be/lfFQEIIXpGc" target="_blank" rel="noopener noreferrer" style="flex:1 1 280px; max-width:320px; display:block;">
-      <img src="https://ytcards.demolab.com/?id=lfFQEIIXpGc&title=Fix+Partitions+on+SSD+%26+USB+%7C+Windows+10+%26+11+(Tagalog)+2025&lang=en&background_color=%23282a36&title_color=%23ff79c6&stats_color=%23f8f8f2&max_title_lines=2&width=280&border_radius=8&duration=425" alt="Reclaim Lost Storage: Two Ways to Fix SSD and USB Partitions in Windows 10 & 11" style="width:100%; height:auto; border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,0.2);" />
-    </a>
-  </div>
-</div>
+<!-- ════════════ YOUTUBE FEATURED · LANDSCAPE BOX (side-by-side table — GitHub-safe) ════════════ -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/-a6iMUM3caE" target="_blank" rel="noopener noreferrer">
+        <img src="https://ytcards.demolab.com/?id=-a6iMUM3caE&title=Windows+Utility+Created+%7C+by+Christitus+2025&lang=en&background_color=%23282a36&title_color=%23ff79c6&stats_color=%23f8f8f2&max_title_lines=2&width=300&border_radius=8&duration=124" alt="The Ultimate Windows Optimization Utility — Install, Configure, and Automate in Minutes" width="300" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://youtu.be/lfFQEIIXpGc" target="_blank" rel="noopener noreferrer">
+        <img src="https://ytcards.demolab.com/?id=lfFQEIIXpGc&title=Fix+Partitions+on+SSD+%26+USB+%7C+Windows+10+%26+11+(Tagalog)+2025&lang=en&background_color=%23282a36&title_color=%23ff79c6&stats_color=%23f8f8f2&max_title_lines=2&width=300&border_radius=8&duration=425" alt="Reclaim Lost Storage: Two Ways to Fix SSD and USB Partitions in Windows 10 & 11" width="300" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- ════════════ PROFILE CARD · TOGGLED MODE (auto dark/light by system theme) ════════════ -->
 <div style="max-width:640px; margin:25px auto 20px;">
