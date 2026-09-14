@@ -29,7 +29,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/sanguirIS">
-        <img src="https://github-repository-contribution-stat-green.vercel.app/api?username=SanguirIS&limit=12&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Annualized Repository Contributions" width="330" />
+        <img src="https://github-repository-contribution-stat-green.vercel.app/api?username=SanguirIS&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Annualized Repository Contributions" width="330" />
       </a>
     </td>
   </tr>
@@ -60,21 +60,14 @@
 <div style="max-width:900px; margin:0 auto;">
   <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; align-items:stretch; padding:10px 15px;">
     <a href="https://pahimna.vercel.app" target="_blank" rel="noopener noreferrer" style="flex:1 1 300px; max-width:420px; text-decoration:none; color:#ffffff; background:#282a36; padding:20px 30px; border-radius:12px; border:1px solid #44475a; display:flex; align-items:center; gap:15px; transition:all 0.3s;">
-      <img src="https://github.com/user-attachments/assets/593b20a4-1e65-4c4d-b453-3f7cea1e2edc" width="50" height="50" alt="Home Project Icon" style="border-radius:10px;" />
-      <span style="display:flex; flex-direction:column; gap:4px; line-height:1.2;">
-        <span style="font-size:1.05rem; font-weight:700; letter-spacing:0.3px;">🏠 Home</span>
-        <span style="font-size:0.85rem; color:#9aa0b4;">pahimna.vercel.app</span>
-      </span>
+      <img src="https://github.com/user-attachments/assets/ac63eb10-3d1e-4e0a-9ed3-3cfbd097fe77" width="50" height="50" alt="Home Project Icon" style="border-radius:10px;" />
     </a>
     <a href="https://pahimna.vercel.app/info.html" target="_blank" rel="noopener noreferrer" style="flex:1 1 300px; max-width:420px; text-decoration:none; color:#ffffff; background:#282a36; padding:20px 30px; border-radius:12px; border:1px solid #44475a; display:flex; align-items:center; gap:15px; transition:all 0.3s;">
-      <img src="https://github.com/user-attachments/assets/cf87c78b-7e4c-4821-8ac7-4f0b62dfa81d" width="50" height="50" alt="Portfolio Project Icon" style="border-radius:10px;" />
-      <span style="display:flex; flex-direction:column; gap:4px; line-height:1.2;">
-        <span style="font-size:1.05rem; font-weight:700; letter-spacing:0.3px;">📁 Portfolio</span>
-        <span style="font-size:0.85rem; color:#9aa0b4;">pahimna.vercel.app/info.html</span>
-      </span>
+      <img src="https://github.com/user-attachments/assets/40fe1552-4a54-47ee-9891-6c6794ede34e" width="50" height="50" alt="Portfolio Project Icon" style="border-radius:10px;" />
     </a>
   </div>
 </div>
+
 
 <!-- ════════════ SOCIALS · OWN CUSTOM ICONS (modern, small, auto dark/light toggle) ════════════ -->
 <div style="display:flex; flex-wrap:wrap; gap:14px; justify-content:center; align-items:center; padding:18px 10px; max-width:900px; margin:0 auto;">
@@ -160,5 +153,6 @@
     <img alt="sanguirIS's GitHub profile" src="dark_mode.svg" style="width:100%; max-width:620px; height:auto; border-radius:10px;" />
   </picture>
 </div>
-
 </div>
+
+<img width="1632" height="1424" alt="wolf_cut_mullet_portrait" src="https://github.com/user-attachments/assets/ac63eb10-3d1e-4e0a-9ed3-3cfbd097fe77" />
