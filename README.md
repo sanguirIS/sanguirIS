@@ -38,7 +38,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: center; align-items: center; padding: 20px; max-width:1000px; margin:0 auto;">
     <div style="margin-top:25px; display:flex; gap:15px; flex-wrap:wrap;">
       <a href="mailto:klenn31is18pahimna@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Email-Contact%20Me-FF5555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact">
+        <img src="https://svgl.app/library/gmail.svg" alt="Email Contact">
     </div>
 <div align="center">
   <img src="./github-metrics.svg" alt="GitHub Activity Metrics" style="max-width: 95%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.15); border-radius: 10px;">
@@ -52,28 +52,28 @@
 <div style="max-width:900px; margin:0 auto;">
   <div style="display: flex; flex-wrap: wrap; gap:20px; justify-content: center; align-items: center; padding: 15px;">
     <a href="https://codepen.io/sanguiris" target="_blank" rel="noopener noreferrer" title="CodePen">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" style="height: 45px; width: 45px;">
+      <img src="https://svgl.app/library/codepen.svg" alt="CodePen" style="height: 45px; width: 45px;">
     </a>
     <a href="https://dev.to/sanguiris" target="_blank" rel="noopener noreferrer" title="Dev.to">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" style="height: 45px; width: 45px;">
+      <img src="https://svgl.app/library/devto.svg" alt="Dev.to" style="height: 45px; width: 45px;">
     </a>
     <a href="https://twitter.com/KPahimna" target="_blank" rel="noopener noreferrer" title="Twitter / X">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" style="height: 45px; width: 45px;">
+      <img src="https://svgl.app/library/x.svg" alt="Twitter" style="height: 45px; width: 45px;">
     </a>
     <a href="https://www.linkedin.com/in/djkam42pahimna" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="height: 45px; width: 45px;">
+      <img src="https://svgl.app/library/linkedin.svg" alt="LinkedIn" style="height: 45px; width: 45px;">
     </a>
     <a href="https://stackoverflow.com/users/21699471/klenn-pahimna" target="_blank" rel="noopener noreferrer" title="Stack Overflow">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" style="height: 45px; width: 45px;">
+      <img src="https://svgl.app/library/stackoverflow.svg" alt="Stack Overflow" style="height: 45px; width: 45px;">
     </a>
     <a href="https://www.youtube.com/@DEVKLENN" target="_blank" rel="noopener noreferrer" title="YouTube">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" style="height: 45px; width: 45px;">
+      <img src="https://svgl.app/library/youtube.svg" alt="YouTube" style="height: 45px; width: 45px;">
     </a>
     <a href="https://www.hackerrank.com/djkam42pahimna" target="_blank" rel="noopener noreferrer" title="HackerRank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" style="height: 45px; width: 45px;">
+      <img src="https://svgl.app/library/hackerrank.svg" alt="HackerRank" style="height: 45px; width: 45px;">
     </a>
     <a href="https://www.tiktok.com/@com4_4ksec" target="_blank" rel="noopener noreferrer" title="TikTok">
-      <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/2840/tiktok-logo-512.png" alt="TikTok" style="height: 45px; width: 45px; border-radius: 8px;">
+      <img src="https://svgl.app/library/tiktok.svg" alt="TikTok" style="height: 45px; width: 45px; border-radius: 8px;">
     </a>
   </div>
 <div style="max-width:900px; margin:0 auto;">
