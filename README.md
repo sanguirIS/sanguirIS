@@ -7,13 +7,13 @@
   <img src="https://img.shields.io/github/last-commit/sanguiris/sanguiris?style=for-the-badge&label=Last%20Commit&logo=git&color=50FA7B" alt="Last GitHub Commit" />
 </div>
 
-<!-- ════════════ ROW 1 · STATS + STREAK (responsive 2-col, wraps on mobile) ════════════ -->
+<!-- ════════════ ROW 1 · STATS + STREAK (two landscape boxes, wraps on mobile) ════════════ -->
 <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; align-items:stretch; max-width:1000px; margin:0 auto 20px;">
-  <a href="https://github.com/sanguirIS" style="flex:1 1 460px; max-width:480px; display:block;">
-    <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=sanguirIS&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" style="width:100%; height:auto; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
+  <a href="https://github.com/sanguirIS" style="flex:1 1 460px; max-width:480px; display:block; box-sizing:border-box; padding:10px; background:#282a36; border:1px solid #44475a; border-radius:12px; overflow:hidden;">
+    <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=sanguirIS&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" style="display:block; width:100%; height:auto; border-radius:8px;" />
   </a>
-  <a href="https://github.com/sanguirIS" style="flex:1 1 460px; max-width:480px; display:block;">
-    <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=sanguirIS&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" style="width:100%; height:auto; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
+  <a href="https://github.com/sanguirIS" style="flex:1 1 460px; max-width:480px; display:block; box-sizing:border-box; padding:10px; background:#282a36; border:1px solid #44475a; border-radius:12px; overflow:hidden;">
+    <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=sanguirIS&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" style="display:block; width:100%; height:auto; border-radius:8px;" />
   </a>
 </div>
 
@@ -38,9 +38,9 @@
   </a>
 </div>
 
-<!-- ════════════ GITHUB METRICS ════════════ -->
-<div style="max-width:1000px; margin:0 auto 18px;">
-  <img src="./github-metrics.svg" alt="GitHub Activity Metrics" style="width:100%; height:auto; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
+<!-- ════════════ GITHUB METRICS (kept compact at its native size) ════════════ -->
+<div style="max-width:480px; margin:0 auto 18px;">
+  <img src="./github-metrics.svg" alt="GitHub Activity Metrics" style="display:block; width:100%; max-width:480px; height:auto; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
 </div>
 
 <!-- ════════════ TYPING ANIMATION ════════════ -->
