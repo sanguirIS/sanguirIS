@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="auto">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Icon set — sanguirIS</title>
+<style>
+  :root {
+    --bg: #ffffff;
+    --panel: #f6f8fa;
+    --ink: #1f2328;
+    --muted: #59636e;
+    --border: #d1d9e0;
+    --accent: #8250df;
+  }
+  html[data-theme="dark"] {
+    --bg: #0d1117;
+    --panel: #161b22;
+    --ink: #e6edf3;
+    --muted: #9198a1;
+    --border: #30363d;
+    --accent: #bd93f9;
+  }
+  @media (prefers-color-scheme: dark) {
+    html[data-theme="auto"] {
+      --bg: #0d1117;
+      --panel: #161b22;
+      --ink: #e6edf3;
+      --muted: #9198a1;
+      --border: #30363d;
+      --accent: #bd93f9;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: clamp(16px, 4vw, 48px);
+    background: var(--bg);
+    color: var(--ink);
+    font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  header {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 28px;
+  }
+  h1 { font-size: clamp(22px, 3.4vw, 32px); margin: 0 0 4px; letter-spacing: -0.02em; }
+  p.lede { margin: 0; color: var(--muted); font-size: 14px; }
+  .toggle { display: flex; gap: 4px; padding: 4px; background: var(--panel); border: 1px solid var(--border); border-radius: 999px; }
+  .toggle button {
+    appearance: none; border: 0; cursor: pointer;
+    background: transparent; color: var(--muted);
+    padding: 7px 15px; border-radius: 999px; font: inherit; font-size: 14px;
+  }
+  .toggle button[aria-pressed="true"] { background: var(--bg); color: var(--ink); box-shadow: 0 1px 3px rgba(0,0,0,.15); }
+  h2 { font-size: 15px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 36px 0 14px; }
+  .grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(132px, 1fr)); }
+  .card {
+    background: var(--panel); border: 1px solid var(--border); border-radius: 14px;
+    padding: 18px 12px 14px; text-align: center;
+    display: flex; flex-direction: column; align-items: center; gap: 10px;
+  }
+  .card span { font-size: 12.5px; color: var(--muted); word-break: break-all; }
+  .card picture, .card img { display: block; }
+  .badges { display: flex; flex-wrap: wrap; gap: 18px; align-items: center; }
+  .scale { display: flex; flex-wrap: wrap; gap: 22px; align-items: flex-end; }
+  .scale figure { margin: 0; text-align: center; }
+  .scale figcaption { font-size: 12px; color: var(--muted); margin-top: 6px; }
+  pre {
+    background: var(--panel); border: 1px solid var(--border); border-radius: 12px;
+    padding: 16px; overflow-x: auto; font-size: 13px; line-height: 1.5;
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  }
+  code { font-family: inherit; }
+  footer { margin-top: 40px; color: var(--muted); font-size: 13px; }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Icon set — theme-toggled</h1>
+    <p class="lede">22 hand-built SVGs · identical geometry in both themes · <code>icons/light/</code> + <code>icons/dark/</code></p>
+  </div>
+  <div class="toggle" role="group" aria-label="Theme">
+    <button type="button" data-set="auto" aria-pressed="true">Auto</button>
+    <button type="button" data-set="light" aria-pressed="false">Light</button>
+    <button type="button" data-set="dark" aria-pressed="false">Dark</button>
+  </div>
+</header>
+
+<h2>Square icons · 48px</h2>
+<div class="grid" id="grid"></div>
+
+<h2>Gmail badge · KPAHIMNA</h2>
+<div class="badges" id="badges"></div>
+
+<h2>Responsive scaling</h2>
+<div class="scale" id="scale"></div>
+
+<h2>Markdown snippet</h2>
+<pre><code>&lt;picture&gt;
+  &lt;source media="(prefers-color-scheme: dark)" srcset="icons/dark/codepen.svg"&gt;
+  &lt;source media="(prefers-color-scheme: light)" srcset="icons/light/codepen.svg"&gt;
+  &lt;img src="icons/dark/codepen.svg" alt="CodePen" width="44" height="44"
+       style="height:44px;width:auto;max-width:100%;display:block"&gt;
+&lt;/picture&gt;</code></pre>
+
+<footer>
+  Regenerate with <code>python3 tools/build_icons.py</code> — geometry and colours live in <code>tools/glyphs.json</code>.
+</footer>
+
+<script>
+  const NAMES = ["codepen","devto","x","linkedin","stackoverflow","youtube","hackerrank","tiktok","home","portfolio"];
+
+  const picture = (name, size, alt) => `
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="dark/${name}.svg">
+      <source media="(prefers-color-scheme: light)" srcset="light/${name}.svg">
+      <img src="dark/${name}.svg" alt="${alt}" width="${size}" height="${size}"
+           style="height:${size}px;width:auto;max-width:100%;display:block">
+    </picture>`;
+
+  document.getElementById("grid").innerHTML = NAMES
+    .map(n => `<div class="card">${picture(n, 48, n)}<span>${n}.svg</span></div>`).join("");
+
+  document.getElementById("badges").innerHTML = [56, 44, 36]
+    .map(s => picture("gmail", s, "Email KPAHIMNA")).join("");
+
+  document.getElementById("scale").innerHTML = [24, 32, 44, 64, 96]
+    .map(s => `<figure>${picture("linkedin", s, "LinkedIn")}<figcaption>${s}px</figcaption></figure>`).join("")
+    + [24, 32, 44].map(s => `<figure>${picture("youtube", s, "YouTube")}<figcaption>${s}px</figcaption></figure>`).join("");
+
+  // Remember the authored srcset so "Auto" can restore the real scheme swap.
+  document.querySelectorAll("picture source").forEach(src => {
+    src.dataset.themeSrc = src.getAttribute("srcset").replace(/^(light|dark)\//, "");
+  });
+  document.querySelectorAll("picture img").forEach(img => {
+    img.dataset.themeSrc = img.getAttribute("src").replace(/.*\/(light|dark)\//, "");
+  });
+
+  const applyTheme = mode => {
+    document.documentElement.dataset.theme = mode;
+    document.querySelectorAll("picture source").forEach(src => {
+      src.setAttribute("srcset", (mode === "auto" ? (src.media.includes("dark") ? "dark/" : "light/") : mode + "/") + src.dataset.themeSrc);
+    });
+    document.querySelectorAll("picture img").forEach(img => {
+      img.src = (mode === "auto" ? "dark/" : mode + "/") + img.dataset.themeSrc;
+    });
+    document.querySelectorAll(".toggle button").forEach(b =>
+      b.setAttribute("aria-pressed", String(b.dataset.set === mode)));
+  };
+
+  document.querySelectorAll(".toggle button").forEach(btn =>
+    btn.addEventListener("click", () => applyTheme(btn.dataset.set)));
+</script>
+</body>
+</html>
