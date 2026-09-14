@@ -154,5 +154,3 @@
   </picture>
 </div>
 </div>
-
-<img width="1632" height="1424" alt="wolf_cut_mullet_portrait" src="https://github.com/user-attachments/assets/ac63eb10-3d1e-4e0a-9ed3-3cfbd097fe77" />
