@@ -12,24 +12,24 @@
   <tr>
     <td align="center">
       <a href="https://github.com/sanguirIS">
-        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=sanguirIS&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" width="420" />
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=sanguirIS&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" width="330" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/sanguirIS">
-        <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=sanguirIS&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" width="420" />
+        <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=sanguirIS&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" width="330" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/sanguirIS/WinUtilKLENN">
-        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=sanguirIS&repo=WinUtilKLENN&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="WinUtilKLENN Pinned Repository" width="420" />
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=sanguirIS&repo=WinUtilKLENN&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="WinUtilKLENN Pinned Repository" width="330" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/sanguirIS">
-        <img src="https://github-repository-contribution-stat-green.vercel.app/api?username=SanguirIS&limit=12&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Annualized Repository Contributions" width="420" />
+        <img src="https://github-repository-contribution-stat-green.vercel.app/api?username=SanguirIS&limit=12&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Annualized Repository Contributions" width="330" />
       </a>
     </td>
   </tr>
@@ -141,12 +141,12 @@
   <tr>
     <td align="center">
       <a href="https://youtu.be/-a6iMUM3caE" target="_blank" rel="noopener noreferrer">
-        <img src="https://ytcards.demolab.com/?id=-a6iMUM3caE&title=Windows+Utility+Created+%7C+by+Christitus+2025&lang=en&background_color=%23282a36&title_color=%23ff79c6&stats_color=%23f8f8f2&max_title_lines=2&width=380&border_radius=8&duration=124" alt="The Ultimate Windows Optimization Utility — Install, Configure, and Automate in Minutes" width="380" />
+        <img src="https://ytcards.demolab.com/?id=-a6iMUM3caE&title=Windows+Utility+Created+%7C+by+Christitus+2025&lang=en&background_color=%23282a36&title_color=%23ff79c6&stats_color=%23f8f8f2&max_title_lines=2&width=300&border_radius=8&duration=124" alt="The Ultimate Windows Optimization Utility — Install, Configure, and Automate in Minutes" width="300" />
       </a>
     </td>
     <td align="center">
       <a href="https://youtu.be/lfFQEIIXpGc" target="_blank" rel="noopener noreferrer">
-        <img src="https://ytcards.demolab.com/?id=lfFQEIIXpGc&title=Fix+Partitions+on+SSD+%26+USB+%7C+Windows+10+%26+11+(Tagalog)+2025&lang=en&background_color=%23282a36&title_color=%23ff79c6&stats_color=%23f8f8f2&max_title_lines=2&width=380&border_radius=8&duration=425" alt="Reclaim Lost Storage: Two Ways to Fix SSD and USB Partitions in Windows 10 & 11" width="380" />
+        <img src="https://ytcards.demolab.com/?id=lfFQEIIXpGc&title=Fix+Partitions+on+SSD+%26+USB+%7C+Windows+10+%26+11+(Tagalog)+2025&lang=en&background_color=%23282a36&title_color=%23ff79c6&stats_color=%23f8f8f2&max_title_lines=2&width=300&border_radius=8&duration=425" alt="Reclaim Lost Storage: Two Ways to Fix SSD and USB Partitions in Windows 10 & 11" width="300" />
       </a>
     </td>
   </tr>
