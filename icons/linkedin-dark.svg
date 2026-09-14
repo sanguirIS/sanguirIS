@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="linkedin">
+  <defs>
+    <linearGradient id="glinkedindark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f3242"/>
+      <stop offset="1" stop-color="#21232e"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="url(#glinkedindark)" stroke="#45485c" stroke-width="1.5"/>
+    <g fill="none" stroke="#f8f8f2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="22" cy="21.5" r="2.5" fill="#f8f8f2" stroke="none"/>
+    <path d="M22 28v13"/>
+    <path d="M30.5 41V28"/>
+    <path d="M30.5 32.5c0-3.6 2.4-5.8 5.4-5.8 3 0 5.1 2.2 5.1 5.8V41"/>
+  </g>
+  <circle cx="50" cy="14" r="3" fill="#0A66C2"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="tiktok">
+  <defs>
+    <linearGradient id="gtiktokdark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f3242"/>
+      <stop offset="1" stop-color="#21232e"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="url(#gtiktokdark)" stroke="#45485c" stroke-width="1.5"/>
+    <g>
+    <path d="M36.8 13c.3 4.3 3 7 7.1 7.3v5.9c-2.8-.1-5.2-1.1-7.1-2.7v10.6a9.4 9.4 0 1 1-9.4-9.4c.5 0 1 .05 1.5.13v6a3.5 3.5 0 1 0 2.4 3.3V13Z" transform="translate(1.6 -1.4)" fill="#FE2C55" opacity="0.85"/>
+    <path d="M36.8 13c.3 4.3 3 7 7.1 7.3v5.9c-2.8-.1-5.2-1.1-7.1-2.7v10.6a9.4 9.4 0 1 1-9.4-9.4c.5 0 1 .05 1.5.13v6a3.5 3.5 0 1 0 2.4 3.3V13Z" fill="#f8f8f2"/>
+  </g>
+  <circle cx="50" cy="14" r="3" fill="#FE2C55"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="56" viewBox="0 0 210 56" role="img" aria-label="Gmail KPAHIMNA">
+  <defs>
+    <linearGradient id="gkpalight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eef1f6"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="208" height="54" rx="16" fill="url(#gkpalight)" stroke="#d0d7de" stroke-width="1.5"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="16" y="17" width="30" height="23" rx="5" stroke="#24292f" stroke-width="2.4"/>
+    <path d="M19 20.5 L31 30.5 L43 20.5" stroke="#EA4335" stroke-width="2.8"/>
+  </g>
+  <text x="58" y="24" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="9" letter-spacing="2.4" font-weight="600" fill="#57606a">GMAIL</text>
+  <text x="58" y="42" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="17" letter-spacing="1.4" font-weight="700" fill="#24292f">KPAHIMNA</text>
+  <circle cx="195" cy="14" r="3" fill="#EA4335"/>
+</svg>
