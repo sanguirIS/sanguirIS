@@ -8,12 +8,13 @@
 </div>
 
 <!-- ════════════ STATS · LANDSCAPE BOX (2×2 grid) ════════════
-     NOTE: GitHub strips style="display:flex" from READMEs, so flex rows collapse into one tall
-     stack. Tables + width/height attributes DO survive GitHub's sanitizer — that is the "box". -->
+     NOTE: GitHub strips style="display:flex" from READMEs, so flex rows collapse into one tall stack.
+     Tables, align= and width/height attributes DO survive GitHub's sanitizer — that is the "box".
+     (bgcolor is stripped too, so the frame is GitHub's own table border — theme-aware.) -->
 <div align="center">
-<table align="center" bgcolor="#282a36">
+<table align="center">
   <tr>
-    <td width="50%" align="center" valign="top" bgcolor="#282a36">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/sanguirIS" title="GitHub Stats">
         <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=sanguirIS&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" width="380" />
       </a>
@@ -22,7 +23,7 @@
         <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=sanguirIS&repo=WinUtilKLENN&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="WinUtilKLENN Pinned Repository" width="380" />
       </a>
     </td>
-    <td width="50%" align="center" valign="top" bgcolor="#282a36">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/sanguirIS" title="Streak Stats">
         <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=sanguirIS&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" width="380" />
       </a>
@@ -136,16 +137,17 @@
   </a>
 </div>
 
-<!-- ════════════ YOUTUBE · LANDSCAPE BOX (1×2, side-by-side) ════════════ -->
+<!-- ════════════ YOUTUBE · LANDSCAPE BOX (1×2, side-by-side) ════════════
+     Same table trick as the stats box above: survives GitHub's README sanitizer. -->
 <div align="center">
-<table align="center" bgcolor="#282a36">
+<table align="center">
   <tr>
-    <td width="50%" align="center" valign="top" bgcolor="#282a36">
+    <td width="50%" align="center" valign="top">
       <a href="https://youtu.be/-a6iMUM3caE" title="Windows Utility Created | by Christitus 2025">
         <img src="https://ytcards.demolab.com/?id=-a6iMUM3caE&title=Windows+Utility+Created+%7C+by+Christitus+2025&lang=en&background_color=%23282a36&title_color=%23ff79c6&stats_color=%23f8f8f2&max_title_lines=2&width=400&border_radius=8&duration=124" alt="The Ultimate Windows Optimization Utility — Install, Configure, and Automate in Minutes" width="380" />
       </a>
     </td>
-    <td width="50%" align="center" valign="top" bgcolor="#282a36">
+    <td width="50%" align="center" valign="top">
       <a href="https://youtu.be/lfFQEIIXpGc" title="Fix Partitions on SSD &amp; USB | Windows 10 &amp; 11 (Tagalog) 2025">
         <img src="https://ytcards.demolab.com/?id=lfFQEIIXpGc&title=Fix+Partitions+on+SSD+%26+USB+%7C+Windows+10+%26+11+(Tagalog)+2025&lang=en&background_color=%23282a36&title_color=%23ff79c6&stats_color=%23f8f8f2&max_title_lines=2&width=400&border_radius=8&duration=425" alt="Reclaim Lost Storage: Two Ways to Fix SSD and USB Partitions in Windows 10 &amp; 11" width="380" />
       </a>
