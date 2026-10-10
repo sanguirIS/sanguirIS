@@ -11,18 +11,6 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/sanguirIS">
-        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=sanguirIS&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" width="330" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sanguirIS">
-        <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=sanguirIS&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" width="330" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/sanguirIS/WinUtilKLENN">
         <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=sanguirIS&repo=WinUtilKLENN&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="WinUtilKLENN Pinned Repository" width="330" />
       </a>
