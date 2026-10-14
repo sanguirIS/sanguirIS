@@ -1,13 +1,15 @@
-<div align="center">
 
-<!-- ════════════ BADGES ════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanguirIS/sanguirIS/main/portrait_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanguirIS/sanguirIS/main/portrait_light.svg">
+  <img alt="Klenn Pahimna" src="https://raw.githubusercontent.com/sanguirIS/sanguirIS/main/portrait_light.svg">
+</picture>
+<div align="center">
 <div style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center; margin:25px 0 15px;">
   <img src="https://img.shields.io/github/followers/sanguiris?style=for-the-badge&label=Followers&logo=github&color=FF79C6" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/sanguiris?style=for-the-badge&label=Stars&logo=github&color=BD93F9" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/last-commit/sanguiris/sanguiris?style=for-the-badge&label=Last%20Commit&logo=git&color=50FA7B" alt="Last GitHub Commit" />
 </div>
-
-<!-- ════════════ STATS · LANDSCAPE BOX (2×2 table — GitHub-safe, renders side-by-side with border) ════════════ -->
 <table align="center">
   <tr>
     <td align="center">
@@ -22,8 +24,6 @@
     </td>
   </tr>
 </table>
-
-<!-- ════════════ CONTACT · KPAHIMNA GMAIL BADGE (custom icon, small, modern, toggled dark/light) ════════════ -->
 <div align="center">
   <a href="mailto:klenn31is18pahimna@gmail.com" target="_blank" rel="noopener noreferrer">
     <picture>
@@ -34,17 +34,13 @@
   </a>
 </div>
 
-<!-- ════════════ GITHUB METRICS ════════════ -->
 <div style="max-width:1000px; margin:0 auto 18px;">
   <img src="./github-metrics.svg" alt="GitHub Activity Metrics" style="width:100%; height:auto; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);" />
 </div>
 
-<!-- ════════════ TYPING ANIMATION ════════════ -->
 <div style="max-width:600px; margin:0 auto 22px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Continuous+Learner+%7C+Tech+Enthusiast;Python,+PHP,+SQL,+C%23,+JavaScript;Let%27s+build+something+impactful%21" alt="Typing Animation" style="width:100%; max-width:550px; height:auto;" />
 </div>
-
-<!-- ════════════ PROJECTS (responsive cards) ════════════ -->
 <div style="max-width:900px; margin:0 auto;">
   <div style="display:flex; flex-wrap:wrap; gap:20px; justify-content:center; align-items:stretch; padding:10px 15px;">
     <a href="https://pahimna.vercel.app" target="_blank" rel="noopener noreferrer" style="flex:1 1 300px; max-width:420px; text-decoration:none; color:#ffffff; background:#282a36; padding:20px 30px; border-radius:12px; border:1px solid #44475a; display:flex; align-items:center; gap:15px; transition:all 0.3s;">
@@ -55,9 +51,6 @@
     </a>
   </div>
 </div>
-
-
-<!-- ════════════ SOCIALS · OWN CUSTOM ICONS (modern, small, auto dark/light toggle) ════════════ -->
 <div style="display:flex; flex-wrap:wrap; gap:14px; justify-content:center; align-items:center; padding:18px 10px; max-width:900px; margin:0 auto;">
   <a href="https://codepen.io/sanguiris" target="_blank" rel="noopener noreferrer" title="CodePen" style="display:inline-block;">
     <picture>
@@ -116,8 +109,6 @@
     </picture>
   </a>
 </div>
-
-<!-- ════════════ YOUTUBE FEATURED · LANDSCAPE BOX (side-by-side table — GitHub-safe) ════════════ -->
 <table align="center">
   <tr>
     <td align="center">
@@ -132,13 +123,3 @@
     </td>
   </tr>
 </table>
-
-<!-- ════════════ PROFILE CARD · TOGGLED MODE (auto dark/light by system theme) ════════════ -->
-<div style="max-width:640px; margin:25px auto 20px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-    <img alt="sanguirIS's GitHub profile" src="dark_mode.svg" style="width:100%; max-width:620px; height:auto; border-radius:10px;" />
-  </picture>
-</div>
-</div>
