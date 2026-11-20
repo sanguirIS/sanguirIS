@@ -12,8 +12,8 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/sanguirIS/WinUtilKLENN">
-        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=sanguirIS&repo=WinUtilKLENN&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="WinUtilKLENN Pinned Repository" width="330" />
+      <a href="https://github.com/sanguirIS/SIPBU-Porais-Integrated-System-SPIS-">
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=sanguirIS&repo=SIPBU-Porais-Integrated-System-SPIS-&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="SIPBU-Porais-Integrated-System-SPIS- Pinned Repository" width="330" />
       </a>
     </td>
     <td align="center">
